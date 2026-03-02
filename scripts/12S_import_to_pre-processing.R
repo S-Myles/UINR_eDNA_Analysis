@@ -1,7 +1,6 @@
 # Import file
 library(tidyverse)
 library(phyloseq)
-library(lubridate)
 
 ####################################################
 # Sample metadata file
@@ -23,7 +22,8 @@ head(sort(rowSums(ASV_table)), n = 12L) # change n to find tail end
 ####################################################
 # Taxonomy file
 taxonomy <- read_tsv("data/raw/12S_taxonomy_BLAST96_besthit_LCA.txt") %>%  
-  column_to_rownames("#Query")
+  column_to_rownames("#Query") %>%
+  filter(`#class` %in% c("Actinopteri", "Chondrichthyes", "Mammalia"))
 ####################################################
 
 
@@ -64,3 +64,26 @@ ASV_table <- ASV_table[, taxa_keep, drop = FALSE]
   tax_table(as.matrix(taxonomy)),
   sample_data(metadata)))
 ############################################
+
+# Originally, this dataset contained 1318 ASVs, 1206 of those ASVs had taxonomy information. 
+# After Taxonomy cleanup, 558 ASVs remain (of classes "Actinopteri, Chondrichthyes, Mammalia")
+# I see a good number of ASVs have less than 1000 reads, so I will apply it as a minimum threshold.  
+# After read abundance filter, 397 ASVs remain. I will manually assess those against OBIS records.
+
+UINR_filtered_taxonomy <- tax_table(UINR_12S) %>%
+  as("matrix") %>%
+  as.data.frame() %>%
+  rownames_to_column("ASV") %>%
+  as_tibble()
+
+# OBIS taconomic occurence file
+regional_OBIS <- read_csv("data/raw/OBIS_Can-Atl-Maritimes_Species_list.csv") %>%
+  select(scientificName, family, genus, FBname, DemersPelag, AnaCat, Importance)
+
+UINR_with_OBIS <- UINR_filtered_taxonomy %>%
+  left_join(
+    regional_OBIS,
+    by = c("#lca taxon" = "scientificName")
+  )
+
+write.csv(UINR_with_OBIS, "data/processed/UINR_w_OBIS.csv")
