@@ -1,0 +1,1207 @@
+#Query	#lca rank	#lca taxon	#kingdom	#phylum	#class	#order	#family	#genus	#species	#method
+ASV1	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV2	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV3	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV4	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV5	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV6	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV7	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV8	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV9	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV10	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV11	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV12	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV13	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV14	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV15	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV16	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV17	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV18	species	Anarhichas denticulatus	Eukaryota	Chordata	Actinopteri	Perciformes	Anarhichadidae	Anarhichas	Anarhichas denticulatus	best hit
+ASV19	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV20	species	Myoxocephalus aenaeus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus aenaeus	best hit
+ASV21	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV22	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	best hit
+ASV23	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	best hit
+ASV24	species	Glyptocephalus cynoglossus	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Glyptocephalus	Glyptocephalus cynoglossus	best hit
+ASV25	species	Ammodytes marinus	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes marinus	best hit
+ASV26	species	Myoxocephalus aenaeus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus aenaeus	best hit
+ASV27	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV28	species	Hippoglossoides platessoides	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossoides	Hippoglossoides platessoides	best hit
+ASV29	species	Syngnathus fuscus	Eukaryota	Chordata	Actinopteri	Syngnathiformes	Syngnathidae	Syngnathus	Syngnathus fuscus	best hit
+ASV30	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	best hit
+ASV31	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV32	species	Fundulus diaphanus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus diaphanus	best hit
+ASV33	species	Triglops murrayi	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Triglops	Triglops murrayi	best hit
+ASV34	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV35	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV36	species	Pseudopleuronectes americanus	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Pseudopleuronectes	Pseudopleuronectes americanus	best hit
+ASV37	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV38	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV39	species	Myoxocephalus thompsonii	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus thompsonii	best hit
+ASV40	species	Myoxocephalus octodecemspinosus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus octodecemspinosus	best hit
+ASV41	species	Pungitius pungitius	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	best hit
+ASV42	species	Citharichthys arctifrons	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Cyclopsettidae	Citharichthys	Citharichthys arctifrons	best hit
+ASV43	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV44	species	Hippoglossus hippoglossus	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossus	Hippoglossus hippoglossus	best hit
+ASV45	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV46	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV47	species	Catostomus commersonii	Eukaryota	Chordata	Actinopteri	Cypriniformes	Catostomidae	Catostomus	Catostomus commersonii	best hit
+ASV48	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV49	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV50	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV51	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV52	species	Liparis gibbus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis gibbus	best hit
+ASV53	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV54	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV55	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV56	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV57	species	Menidia beryllina	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia beryllina	best hit
+ASV58	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV59	species	Eumesogrammus praecisus	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	Eumesogrammus	Eumesogrammus praecisus	best hit
+ASV60	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV61	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV62	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV63	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV64	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV65	species	Liparis miostomus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis miostomus	best hit
+ASV66	species	Lophius americanus	Eukaryota	Chordata	Actinopteri	Lophiiformes	Lophiidae	Lophius	Lophius americanus	best hit
+ASV67	species	Artediellus atlanticus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Artediellus	Artediellus atlanticus	best hit
+ASV68	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV69	species	Oncorhynchus mykiss	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	best hit
+ASV70	species	Mola mola	Eukaryota	Chordata	Actinopteri	Tetraodontiformes	Molidae	Mola	Mola mola	best hit
+ASV71	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV72	species	Liparis inquilinus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis inquilinus	best hit
+ASV73	species	Lumpenus lampretaeformis	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	Lumpenus	Lumpenus lampretaeformis	best hit
+ASV74	species	Thunnus thynnus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Thunnus	Thunnus thynnus	best hit
+ASV75	species	Alosa pseudoharengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus	best hit
+ASV76	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV77	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV78	species	Leptoclinus maculatus	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	Leptoclinus	Leptoclinus maculatus	best hit
+ASV80	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV81	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV82	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV83	species	Enchelyopus cimbrius	Eukaryota	Chordata	Actinopteri	Gadiformes	Gaidropsaridae	Enchelyopus	Enchelyopus cimbrius	best hit
+ASV84	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV85	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV86	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV87	species	Pollachius virens	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Pollachius	Pollachius virens	best hit
+ASV88	species	Hemitripterus americanus	Eukaryota	Chordata	Actinopteri	Perciformes	Agonidae	Hemitripterus	Hemitripterus americanus	best hit
+ASV89	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV90	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV91	species	Alosa aestivalis	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa aestivalis	best hit
+ASV92	species	Morone americana	Eukaryota	Chordata	Actinopteri	unknown order	Moronidae	Morone	Morone americana	best hit
+ASV93	species	Semotilus atromaculatus	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	Semotilus	Semotilus atromaculatus	best hit
+ASV94	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV95	species	Artediellus atlanticus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Artediellus	Artediellus atlanticus	best hit
+ASV96	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV98	species	Peprilus triacanthus	Eukaryota	Chordata	Actinopteri	Scombriformes	Stromateidae	Peprilus	Peprilus triacanthus	best hit
+ASV99	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV100	species	Virgulinella fragilis	Eukaryota	Foraminifera	unknown class	Rotaliida	unknown family	Virgulinella	Virgulinella fragilis	best hit
+ASV101	species	Skeletonema pseudocostatum	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Skeletonemataceae	Skeletonema	Skeletonema pseudocostatum	best hit
+ASV102	species	uncultured deep-sea bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured deep-sea bacterium	best hit
+ASV103	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV104	species	Notoscopelus elongatus	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Notoscopelus	Notoscopelus elongatus	best hit
+ASV105	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV106	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV107	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV108	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV109	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV110	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV111	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV112	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV113	species	Microtus montanus	Eukaryota	Chordata	Mammalia	Rodentia	Cricetidae	Microtus	Microtus montanus	lca
+ASV114	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV115	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV116	species	Corvus pectoralis	Eukaryota	Chordata	Aves	Passeriformes	Corvidae	Corvus	Corvus pectoralis	best hit
+ASV117	species	Brosme brosme	Eukaryota	Chordata	Actinopteri	Gadiformes	Lotidae	Brosme	Brosme brosme	best hit
+ASV118	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV119	species	Urophycis tenuis	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis tenuis	best hit
+ASV120	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV121	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV122	species	Balaenoptera physalus	Eukaryota	Chordata	Mammalia	Artiodactyla	Balaenopteridae	Balaenoptera	Balaenoptera physalus	best hit
+ASV123	species	Citharichthys arctifrons	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Cyclopsettidae	Citharichthys	Citharichthys arctifrons	best hit
+ASV124	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV125	species	Brevoortia tyrannus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Brevoortia	Brevoortia tyrannus	best hit
+ASV126	species	Artediellus uncinatus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Artediellus	Artediellus uncinatus	best hit
+ASV127	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV128	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV129	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV130	species	uncultured Pseudoalteromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	uncultured Pseudoalteromonas sp.	best hit
+ASV131	species	Lycodes vahlii	Eukaryota	Chordata	Actinopteri	Perciformes	Zoarcidae	Lycodes	Lycodes vahlii	best hit
+ASV132	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV133	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV134	species	Phycis chesteri	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Phycis	Phycis chesteri	best hit
+ASV135	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV136	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV137	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV138	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV139	species	Hippoglossoides platessoides	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossoides	Hippoglossoides platessoides	best hit
+ASV140	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV141	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV142	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV143	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV144	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV145	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV146	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	best hit
+ASV147	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV148	species	Balaenoptera musculus	Eukaryota	Chordata	Mammalia	Artiodactyla	Balaenopteridae	Balaenoptera	Balaenoptera musculus	best hit
+ASV149	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV150	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV152	species	Aythya marila	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Aythya	Aythya marila	best hit
+ASV153	species	Chrosomus neogaeus	Eukaryota	Chordata	Actinopteri	Cypriniformes	Leuciscidae	Chrosomus	Chrosomus neogaeus	best hit
+ASV154	species	Hippoglossina oblonga	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Paralichthyidae	Hippoglossina	Hippoglossina oblonga	best hit
+ASV155	species	Aureococcus anophagefferens	Eukaryota	unknown phylum	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	best hit
+ASV156	species	Gymnocanthus tricuspis	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Gymnocanthus	Gymnocanthus tricuspis	best hit
+ASV157	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV158	species	Hippoglossina oblonga	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Paralichthyidae	Hippoglossina	Hippoglossina oblonga	best hit
+ASV159	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV160	species	Chaetoceros simplex	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	Chaetocerotaceae	Chaetoceros	Chaetoceros simplex	best hit
+ASV161	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV162	species	Xiphister atropurpureus	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	Xiphister	Xiphister atropurpureus	best hit
+ASV163	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV164	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV165	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV166	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	lca
+ASV167	species	Thalassiosira sp.	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira sp.	best hit
+ASV168	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV169	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	best hit
+ASV170	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV171	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV172	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV173	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV174	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV175	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV176	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV177	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV178	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV179	species	uncultured Alteromonadales bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	unknown family	unknown genus	uncultured Alteromonadales bacterium	best hit
+ASV180	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV181	species	Gasterosteus wheatlandi	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus wheatlandi	best hit
+ASV183	species	Myoxocephalus octodecemspinosus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus octodecemspinosus	best hit
+ASV184	species	Ammodytes marinus	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes marinus	best hit
+ASV185	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV186	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV187	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV188	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV189	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV190	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV191	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV192	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV193	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV194	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV195	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV196	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	lca
+ASV197	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV198	species	Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp.	best hit
+ASV199	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV200	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV201	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV202	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV203	species	Florenciella parvula	Eukaryota	unknown phylum	Dictyochophyceae	Florenciellales	unknown family	Florenciella	Florenciella parvula	best hit
+ASV204	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV205	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV206	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	lca
+ASV207	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV208	species	Zoarces americanus	Eukaryota	Chordata	Actinopteri	Perciformes	Zoarcidae	Zoarces	Zoarces americanus	best hit
+ASV209	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV210	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV211	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV212	species	Merluccius albidus	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius albidus	best hit
+ASV213	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV214	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV215	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV216	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV217	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV218	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV219	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV220	species	Pseudoalteromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas sp.	best hit
+ASV221	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV222	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV223	species	Plethodon cinereus	Eukaryota	Chordata	Amphibia	Caudata	Plethodontidae	Plethodon	Plethodon cinereus	best hit
+ASV226	species	Aix sponsa	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Aix	Aix sponsa	best hit
+ASV227	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV228	species	Auxis rochei	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Auxis	Auxis rochei	best hit
+ASV229	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV230	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV231	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV232	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV233	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV234	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV236	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV237	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	lca
+ASV238	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV239	species	Pararotalia nipponica	Eukaryota	Foraminifera	unknown class	Rotaliida	Rotaliidae	Pararotalia	Pararotalia nipponica	best hit
+ASV240	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV241	species	Felis catus	Eukaryota	Chordata	Mammalia	Carnivora	Felidae	Felis	Felis catus	best hit
+ASV242	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV243	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV245	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV246	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV247	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV248	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV249	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV250	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV251	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	best hit
+ASV253	species	uncultured Alphaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	unknown order	unknown family	unknown genus	uncultured Alphaproteobacteria bacterium	best hit
+ASV254	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV255	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV256	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV257	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV258	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	lca
+ASV259	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV260	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV261	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV262	species	Stichaeus punctatus	Eukaryota	Chordata	Actinopteri	Perciformes	Stichaeidae	Stichaeus	Stichaeus punctatus	best hit
+ASV263	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV264	species	Pungitius pungitius	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Pungitius	Pungitius pungitius	best hit
+ASV265	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV266	species	Pseudoalteromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas sp.	best hit
+ASV268	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV269	species	Catostomus commersonii	Eukaryota	Chordata	Actinopteri	Cypriniformes	Catostomidae	Catostomus	Catostomus commersonii	best hit
+ASV270	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV271	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV272	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV273	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV274	species	Virgulinella fragilis	Eukaryota	Foraminifera	unknown class	Rotaliida	unknown family	Virgulinella	Virgulinella fragilis	best hit
+ASV275	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV277	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV278	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV279	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV280	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV281	species	uncultured Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	uncultured Psychromonas sp.	best hit
+ASV283	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV284	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV285	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV286	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV288	species	Pararotalia nipponica	Eukaryota	Foraminifera	unknown class	Rotaliida	Rotaliidae	Pararotalia	Pararotalia nipponica	best hit
+ASV289	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV290	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV291	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV292	species	Oncorhynchus mykiss	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	best hit
+ASV293	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV295	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV296	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV297	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV298	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV299	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV300	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV301	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV302	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	best hit
+ASV303	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV304	species	uncultured deep-sea bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured deep-sea bacterium	best hit
+ASV305	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV306	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV307	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV308	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV309	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV310	species	uncultured eukaryotic phytoplankton	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryotic phytoplankton	best hit
+ASV311	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV312	species	Braarudosphaera bigelowii	Eukaryota	Haptophyta	unknown class	Zygodiscales	Braarudosphaeraceae	Braarudosphaera	Braarudosphaera bigelowii	best hit
+ASV313	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV314	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV315	species	uncultured Flavobacteriaceae bacterium	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	unknown genus	uncultured Flavobacteriaceae bacterium	best hit
+ASV317	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	best hit
+ASV318	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV319	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV320	species	Meringosphaera mediterranea	Eukaryota	unknown phylum	Centroplasthelida	unknown order	unknown family	Meringosphaera	Meringosphaera mediterranea	best hit
+ASV321	species	Anarhichas denticulatus	Eukaryota	Chordata	Actinopteri	Perciformes	Anarhichadidae	Anarhichas	Anarhichas denticulatus	best hit
+ASV322	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV323	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV324	species	Triparma columacea	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Triparma	Triparma columacea	best hit
+ASV325	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV326	species	uncultured phototrophic eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured phototrophic eukaryote	best hit
+ASV327	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV328	species	Myoxocephalus thompsonii	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus thompsonii	best hit
+ASV329	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV330	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV331	genus	Pholis	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	no identification	lca
+ASV332	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV333	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV334	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV335	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV336	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV337	species	uncultured deep-sea bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured deep-sea bacterium	best hit
+ASV338	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	best hit
+ASV339	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV340	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV341	species	Rubripirellula lacrimiformis	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Rubripirellula	Rubripirellula lacrimiformis	best hit
+ASV342	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV343	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV344	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV345	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV346	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV347	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV348	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV349	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV350	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV351	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV353	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV354	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV355	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV356	species	uncultured phototrophic eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured phototrophic eukaryote	best hit
+ASV357	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV358	species	Anarhichas denticulatus	Eukaryota	Chordata	Actinopteri	Perciformes	Anarhichadidae	Anarhichas	Anarhichas denticulatus	best hit
+ASV359	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV360	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV361	genus	Salvelinus	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	no identification	lca
+ASV362	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV363	species	uncultured eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryote	best hit
+ASV364	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	lca
+ASV365	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV366	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV367	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV368	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV369	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV373	species	uncultured Verrucomicrobiota bacterium	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	uncultured Verrucomicrobiota bacterium	best hit
+ASV374	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV375	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV376	species	Clupea pallasii	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea pallasii	best hit
+ASV377	species	uncultured euryarchaeote	Methanobacteriati	Methanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured euryarchaeote	best hit
+ASV378	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV379	family	Osmeridae	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	no identification	no identification	lca
+ASV380	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV381	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV382	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	lca
+ASV383	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV384	species	Lontra canadensis	Eukaryota	Chordata	Mammalia	Carnivora	Mustelidae	Lontra	Lontra canadensis	best hit
+ASV385	species	uncultured Chloroflexota bacterium	Bacillati	Chloroflexota	unknown class	unknown order	unknown family	unknown genus	uncultured Chloroflexota bacterium	best hit
+ASV386	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV387	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV388	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV389	species	uncultured delta proteobacterium	Bacteria	unknown phylum	Deltaproteobacteria	unknown order	unknown family	unknown genus	uncultured delta proteobacterium	best hit
+ASV390	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV391	species	uncultured Verrucomicrobiaceae bacterium	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Verrucomicrobiaceae	unknown genus	uncultured Verrucomicrobiaceae bacterium	best hit
+ASV392	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV393	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV394	species	uncultured Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	uncultured Psychromonas sp.	best hit
+ASV395	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV396	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV397	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV398	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV399	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV400	species	Myoxocephalus aenaeus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus aenaeus	best hit
+ASV401	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV402	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV403	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV404	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV405	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV406	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV407	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV408	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV409	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV411	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV412	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV413	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV414	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV415	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV416	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV417	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	best hit
+ASV418	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV419	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV420	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV421	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV422	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV423	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV424	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV425	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV426	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV427	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	best hit
+ASV428	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV429	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV430	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV431	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV432	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV433	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV434	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV435	genus	Anarhichas	Eukaryota	Chordata	Actinopteri	Perciformes	Anarhichadidae	Anarhichas	no identification	lca
+ASV436	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV437	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	best hit
+ASV438	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV439	species	Scophthalmus aquosus	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Scophthalmidae	Scophthalmus	Scophthalmus aquosus	best hit
+ASV440	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV441	species	Pseudictyota dubia	Eukaryota	Bacillariophyta	Mediophyceae	Eupodiscales	Odontellaceae	Pseudictyota	Pseudictyota dubia	best hit
+ASV442	genus	Anas	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	no identification	lca
+ASV443	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV444	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	lca
+ASV445	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV446	species	uncultured diatom	Eukaryota	Bacillariophyta	unknown class	unknown order	unknown family	unknown genus	uncultured diatom	best hit
+ASV447	species	uncultured Microgenomates group bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured Microgenomates group bacterium	best hit
+ASV448	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	lca
+ASV449	species	Squalus acanthias	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	Squalus acanthias	best hit
+ASV450	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV451	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV452	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV453	genus	Myoxocephalus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	no identification	lca
+ASV455	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV456	species	Castor canadensis	Eukaryota	Chordata	Mammalia	Rodentia	Castoridae	Castor	Castor canadensis	best hit
+ASV457	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV459	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV461	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV462	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV463	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV464	species	Myoxocephalus aenaeus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus aenaeus	best hit
+ASV465	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV466	species	Coscinodiscus radiatus	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Coscinodiscales	Coscinodiscaceae	Coscinodiscus	Coscinodiscus radiatus	best hit
+ASV467	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV470	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV471	species	Acrochaetium secundatum	Eukaryota	Rhodophyta	Florideophyceae	Acrochaetiales	Acrochaetiaceae	Acrochaetium	Acrochaetium secundatum	best hit
+ASV472	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV473	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV474	genus	Ammodytes	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	no identification	lca
+ASV475	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV476	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV477	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	lca
+ASV478	species	Planctomycetes bacterium SCGC AAA166-J20	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	Planctomycetes bacterium SCGC AAA166-J20	best hit
+ASV479	genus	Myoxocephalus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	no identification	lca
+ASV480	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV482	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV483	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV484	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV485	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV486	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	lca
+ASV487	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV488	species	Alosa pseudoharengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus	best hit
+ASV490	species	Anguilla rostrata	Eukaryota	Chordata	Actinopteri	Anguilliformes	Anguillidae	Anguilla	Anguilla rostrata	lca
+ASV491	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV492	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV493	species	Alosa aestivalis	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa aestivalis	best hit
+ASV494	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV495	species	Virgulinella fragilis	Eukaryota	Foraminifera	unknown class	Rotaliida	unknown family	Virgulinella	Virgulinella fragilis	best hit
+ASV496	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV497	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV498	genus	Sebastes	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	no identification	lca
+ASV499	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV501	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV502	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV503	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV504	species	uncultured Verrucomicrobiota bacterium	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	uncultured Verrucomicrobiota bacterium	best hit
+ASV505	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV506	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV507	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV508	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV509	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV510	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV511	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV512	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV513	species	uncultured Sulfurimonas sp.	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	uncultured Sulfurimonas sp.	best hit
+ASV514	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV515	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV516	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV517	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV518	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV519	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV520	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV521	species	Glyptocephalus cynoglossus	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Glyptocephalus	Glyptocephalus cynoglossus	best hit
+ASV522	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV523	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV524	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+ASV525	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV526	genus	Ammodytes	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	no identification	lca
+ASV527	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV528	genus	Anas	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	no identification	lca
+ASV529	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV530	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV532	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV533	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV534	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV535	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV536	species	Catostomus commersonii	Eukaryota	Chordata	Actinopteri	Cypriniformes	Catostomidae	Catostomus	Catostomus commersonii	best hit
+ASV537	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	lca
+ASV538	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV540	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV541	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV542	species	Pseudoscourfieldia marina	Viridiplantae	Chlorophyta	Pseudoscourfieldiophyceae	Pseudoscourfieldiales	Pseudoscourfieldiaceae	Pseudoscourfieldia	Pseudoscourfieldia marina	best hit
+ASV543	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV544	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV546	family	Osmeridae	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	no identification	no identification	lca
+ASV547	species	Balaenoptera acutorostrata	Eukaryota	Chordata	Mammalia	Artiodactyla	Balaenopteridae	Balaenoptera	Balaenoptera acutorostrata	best hit
+ASV549	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV550	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV551	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV552	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	lca
+ASV553	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV554	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+ASV555	species	uncultured delta proteobacterium	Bacteria	unknown phylum	Deltaproteobacteria	unknown order	unknown family	unknown genus	uncultured delta proteobacterium	best hit
+ASV557	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV558	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV559	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV560	species	Verrucomicrobia bacterium SCGC AAA166-M17	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	Verrucomicrobia bacterium SCGC AAA166-M17	best hit
+ASV561	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	lca
+ASV562	species	Liparis inquilinus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis inquilinus	best hit
+ASV563	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	lca
+ASV564	species	Ondatra zibethicus	Eukaryota	Chordata	Mammalia	Rodentia	Cricetidae	Ondatra	Ondatra zibethicus	best hit
+ASV565	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV566	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV567	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV568	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV569	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV570	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV572	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV573	species	uncultured eukaryotic phytoplankton	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryotic phytoplankton	best hit
+ASV574	family	Pleuronectidae	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	no identification	no identification	lca
+ASV575	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV577	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV579	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV580	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV581	species	Catostomus commersonii	Eukaryota	Chordata	Actinopteri	Cypriniformes	Catostomidae	Catostomus	Catostomus commersonii	lca
+ASV582	genus	Sebastes	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	no identification	lca
+ASV583	species	Marinicellulosiphila megalodicopiae	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	unknown family	Marinicellulosiphila	Marinicellulosiphila megalodicopiae	best hit
+ASV584	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV585	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV586	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	lca
+ASV587	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV588	species	Alces alces	Eukaryota	Chordata	Mammalia	Artiodactyla	Cervidae	Alces	Alces alces	best hit
+ASV589	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV590	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV591	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV592	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV593	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV594	species	uncultured SAR92 cluster bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	unknown genus	uncultured SAR92 cluster bacterium	best hit
+ASV595	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV596	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV597	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV598	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV599	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV600	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV601	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV602	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV603	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV604	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV605	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV606	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV607	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV608	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV609	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	lca
+ASV610	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV611	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV612	species	uncultured Pseudoalteromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	uncultured Pseudoalteromonas sp.	best hit
+ASV613	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV614	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV615	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV616	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV617	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV620	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV621	genus	Myoxocephalus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	no identification	lca
+ASV622	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV623	species	Thalassionema sp. CCMP1100	Eukaryota	Bacillariophyta	Fragilariophyceae	Thalassionemales	Thalassionemataceae	Thalassionema	Thalassionema sp. CCMP1100	best hit
+ASV624	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV625	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV626	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV627	species	Desmarestia aculeata	Eukaryota	unknown phylum	Phaeophyceae	Desmarestiales	Desmarestiaceae	Desmarestia	Desmarestia aculeata	best hit
+ASV628	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV629	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV630	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV632	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV633	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV634	species	Hippoglossoides platessoides	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossoides	Hippoglossoides platessoides	best hit
+ASV635	genus	Fundulus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	no identification	lca
+ASV636	species	Microgadus tomcod	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Microgadus	Microgadus tomcod	best hit
+ASV637	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV638	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV639	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV640	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV641	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV642	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV643	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV644	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV645	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV646	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV647	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV648	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV649	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV650	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV651	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV652	species	uncultured eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryote	best hit
+ASV653	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV655	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	lca
+ASV657	species	Syngnathus fuscus	Eukaryota	Chordata	Actinopteri	Syngnathiformes	Syngnathidae	Syngnathus	Syngnathus fuscus	best hit
+ASV658	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV659	species	Psychromonas japonica	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas japonica	best hit
+ASV660	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV661	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV663	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV664	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV665	species	uncultured Alphaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	unknown order	unknown family	unknown genus	uncultured Alphaproteobacteria bacterium	best hit
+ASV666	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV667	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV668	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV669	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV670	species	uncultured protist	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured protist	best hit
+ASV671	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV672	family	Osmeridae	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	no identification	no identification	lca
+ASV673	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV674	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV675	genus	Gasterosteus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	no identification	lca
+ASV676	species	Chauliodus sloani	Eukaryota	Chordata	Actinopteri	Stomiiformes	Stomiidae	Chauliodus	Chauliodus sloani	best hit
+ASV677	species	Sebastes mentella	Eukaryota	Chordata	Actinopteri	Perciformes	Sebastidae	Sebastes	Sebastes mentella	best hit
+ASV678	species	Alosa pseudoharengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus	best hit
+ASV679	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	best hit
+ASV680	species	Sus scrofa	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa	best hit
+ASV681	species	Candidatus Atelocyanobacterium thalassae	Bacillati	Cyanobacteriota	Cyanophyceae	Chroococcales	Aphanothecaceae	Candidatus Atelocyanobacterium	Candidatus Atelocyanobacterium thalassae	best hit
+ASV682	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV683	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV685	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	lca
+ASV687	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV688	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV689	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	lca
+ASV690	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV691	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV692	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV693	species	Colwellia sp. HaHa710	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia sp. HaHa710	best hit
+ASV694	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV695	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV696	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV697	species	Alosa pseudoharengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus	best hit
+ASV698	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV699	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV700	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV701	species	uncultured Verrucomicrobiota bacterium	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	uncultured Verrucomicrobiota bacterium	best hit
+ASV702	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV703	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV704	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV705	species	Bucephala albeola	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Bucephala	Bucephala albeola	best hit
+ASV707	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV708	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV709	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV710	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV711	species	Triparma columacea	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Triparma	Triparma columacea	best hit
+ASV712	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV713	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV714	species	Ectocarpus sp. RCC1980	Eukaryota	unknown phylum	Phaeophyceae	Ectocarpales	Ectocarpaceae	Ectocarpus	Ectocarpus sp. RCC1980	best hit
+ASV715	species	Citharichthys arctifrons	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Cyclopsettidae	Citharichthys	Citharichthys arctifrons	best hit
+ASV716	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV717	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV718	species	Triglops murrayi	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Triglops	Triglops murrayi	lca
+ASV719	family	Labridae	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	no identification	no identification	lca
+ASV720	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+ASV721	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV722	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV723	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV724	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV725	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV728	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV729	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV730	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV731	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV732	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	lca
+ASV734	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV736	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV737	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV738	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	lca
+ASV739	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV740	species	Pseudoalteromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Pseudoalteromonadaceae	Pseudoalteromonas	Pseudoalteromonas sp.	best hit
+ASV742	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV744	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV745	species	Psychromonas sp. GE-S-Ul-11	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp. GE-S-Ul-11	best hit
+ASV746	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV747	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV748	species	Mallotus villosus	Eukaryota	Chordata	Actinopteri	Osmeriformes	Salangidae	Mallotus	Mallotus villosus	best hit
+ASV749	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV751	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV752	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV753	species	uncultured eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryote	best hit
+ASV755	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	lca
+ASV756	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV757	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV758	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV759	species	Moritella sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Moritellaceae	Moritella	Moritella sp.	best hit
+ASV760	species	uncultured deep-sea bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured deep-sea bacterium	best hit
+ASV761	species	Prymnesiaceae sp.	Eukaryota	Haptophyta	unknown class	Prymnesiales	Prymnesiaceae	unknown genus	Prymnesiaceae sp.	best hit
+ASV762	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV763	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV764	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV765	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV766	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV767	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV768	species	Hippoglossoides platessoides	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Hippoglossoides	Hippoglossoides platessoides	best hit
+ASV769	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV770	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV771	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV772	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV773	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV774	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	lca
+ASV775	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV776	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV780	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV781	species	uncultured eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryote	best hit
+ASV782	family	Osmeridae	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	no identification	no identification	lca
+ASV783	genus	Salvelinus	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	no identification	lca
+ASV784	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV785	species	Ceratoscopelus maderensis	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Ceratoscopelus	Ceratoscopelus maderensis	best hit
+ASV786	species	Verrucomicrobia bacterium SCGC AAA164-J09	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	Verrucomicrobia bacterium SCGC AAA164-J09	best hit
+ASV787	family	Anatidae	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	no identification	no identification	lca
+ASV788	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV789	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV790	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV791	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV792	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	lca
+ASV793	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV795	species	Chaetoceros tenuissimus	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	Chaetocerotaceae	Chaetoceros	Chaetoceros tenuissimus	best hit
+ASV796	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV798	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV799	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV800	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV801	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV802	species	uncultured Verrucomicrobiota bacterium	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	uncultured Verrucomicrobiota bacterium	best hit
+ASV803	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	lca
+ASV804	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV806	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV807	genus	Pholis	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	no identification	lca
+ASV808	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV809	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	lca
+ASV810	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV811	species	Kapelodiniopsis flava	Eukaryota	unknown phylum	Dinophyceae	Torodiniales	Kapelodiniaceae	Kapelodiniopsis	Kapelodiniopsis flava	best hit
+ASV812	species	Aureococcus anophagefferens	Eukaryota	unknown phylum	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	best hit
+ASV813	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	lca
+ASV814	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV815	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV816	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	best hit
+ASV817	species	Notoscopelus elongatus	Eukaryota	Chordata	Actinopteri	Myctophiformes	Myctophidae	Notoscopelus	Notoscopelus elongatus	best hit
+ASV818	species	Triparma retinervis	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Triparma	Triparma retinervis	best hit
+ASV819	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	lca
+ASV820	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	lca
+ASV821	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV822	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV823	species	Parcubacteria group bacterium GW2011_GWC2_40_10	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	Parcubacteria group bacterium GW2011_GWC2_40_10	best hit
+ASV824	species	uncultured Parcubacteria group bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured Parcubacteria group bacterium	lca
+ASV825	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV826	species	Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp.	best hit
+ASV827	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV828	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV829	species	Lophius americanus	Eukaryota	Chordata	Actinopteri	Lophiiformes	Lophiidae	Lophius	Lophius americanus	best hit
+ASV830	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV832	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	lca
+ASV834	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV835	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV836	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV837	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV838	species	Tautogolabrus adspersus	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus	best hit
+ASV839	species	Alosa aestivalis	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa aestivalis	best hit
+ASV840	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV841	species	Ammodytes marinus	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes marinus	best hit
+ASV842	species	Salmo trutta	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo trutta	best hit
+ASV843	genus	Alosa	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	no identification	lca
+ASV844	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV845	species	uncultured SAR92 cluster bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Porticoccaceae	unknown genus	uncultured SAR92 cluster bacterium	best hit
+ASV847	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV848	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV849	genus	Salvelinus	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	no identification	lca
+ASV850	species	uncultured phototrophic eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured phototrophic eukaryote	best hit
+ASV851	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV852	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV853	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV854	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV856	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV857	species	Ctenodiscus crispatus	Eukaryota	Echinodermata	Asteroidea	Paxillosida	Ctenodiscidae	Ctenodiscus	Ctenodiscus crispatus	best hit
+ASV858	species	Salmo salar	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salmo	Salmo salar	best hit
+ASV859	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV860	species	Thalassiosira nordenskioeldii	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira nordenskioeldii	best hit
+ASV861	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV862	species	Myoxocephalus aenaeus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Myoxocephalus	Myoxocephalus aenaeus	lca
+ASV863	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV864	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV866	species	uncultured Nitrospina sp.	Pseudomonadati	Nitrospinota	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	uncultured Nitrospina sp.	best hit
+ASV869	species	uncultured Bacteroidota bacterium	Pseudomonadati	Bacteroidota	unknown class	unknown order	unknown family	unknown genus	uncultured Bacteroidota bacterium	best hit
+ASV870	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV871	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV872	species	Planctomycetaceae bacterium D2	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	Planctomycetaceae bacterium D2	best hit
+ASV873	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV874	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV875	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV876	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV877	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	lca
+ASV878	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV879	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV880	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV881	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV882	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV883	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV884	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV885	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV886	species	Angulodiscorbis quadrangularis	Eukaryota	Foraminifera	unknown class	Rotaliida	Glabratellidae	Angulodiscorbis	Angulodiscorbis quadrangularis	best hit
+ASV887	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV888	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV889	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV890	species	Syngnathus fuscus	Eukaryota	Chordata	Actinopteri	Syngnathiformes	Syngnathidae	Syngnathus	Syngnathus fuscus	best hit
+ASV891	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV892	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV893	species	Oncorhynchus mykiss	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Oncorhynchus	Oncorhynchus mykiss	best hit
+ASV894	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV895	species	Ammodytes dubius	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	Ammodytes dubius	best hit
+ASV896	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV898	species	Pholis gunnellus	Eukaryota	Chordata	Actinopteri	Perciformes	Pholidae	Pholis	Pholis gunnellus	lca
+ASV899	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV900	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV901	species	Nephroselmis pyriformis	Viridiplantae	Chlorophyta	Nephroselmidophyceae	Nephroselmidales	Nephroselmidaceae	Nephroselmis	Nephroselmis pyriformis	best hit
+ASV902	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV903	species	Psychrobium sp. nBUS_13	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Psychrobium	Psychrobium sp. nBUS_13	best hit
+ASV904	species	uncultured Emiliania	Eukaryota	Haptophyta	unknown class	Isochrysidales	Noelaerhabdaceae	Emiliania	uncultured Emiliania	best hit
+ASV905	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	lca
+ASV906	genus	Ammodytes	Eukaryota	Chordata	Actinopteri	Uranoscopiformes	Ammodytidae	Ammodytes	no identification	lca
+ASV907	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV908	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV909	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV910	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV911	species	uncultured Actinomycetes bacterium	Bacillati	Actinomycetota	Actinomycetes	unknown order	unknown family	unknown genus	uncultured Actinomycetes bacterium	best hit
+ASV912	species	Melanogrammus aeglefinus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Melanogrammus	Melanogrammus aeglefinus	best hit
+ASV913	species	Urophycis chuss	Eukaryota	Chordata	Actinopteri	Gadiformes	Phycidae	Urophycis	Urophycis chuss	best hit
+ASV914	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV915	species	Picochlorum sp. 'soloecismus'	Viridiplantae	Chlorophyta	Trebouxiophyceae	unknown order	unknown family	Picochlorum	Picochlorum sp. 'soloecismus'	best hit
+ASV916	species	uncultured eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryote	best hit
+ASV917	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	best hit
+ASV920	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	lca
+ASV921	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV922	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV924	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV925	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV926	species	Phalacroma mitra	Eukaryota	unknown phylum	Dinophyceae	Dinophysales	Dinophysaceae	Phalacroma	Phalacroma mitra	best hit
+ASV927	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV928	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV929	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	lca
+ASV930	genus	Gadus	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	no identification	lca
+ASV931	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV932	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	lca
+ASV933	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV934	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	lca
+ASV935	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV936	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV937	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV938	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV940	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	lca
+ASV941	family	Gadidae	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	no identification	no identification	lca
+ASV942	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV943	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV944	species	Gasterosteus aculeatus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Gasterosteus	Gasterosteus aculeatus	best hit
+ASV945	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV946	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV948	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV950	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV951	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV952	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV953	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV954	species	Chorda asiatica	Eukaryota	unknown phylum	Phaeophyceae	Laminariales	Chordaceae	Chorda	Chorda asiatica	best hit
+ASV955	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV957	species	uncultured eukaryotic phytoplankton	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryotic phytoplankton	best hit
+ASV958	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV960	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV961	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV962	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV963	species	Planoglabratella opercularis	Eukaryota	Foraminifera	unknown class	Rotaliida	Glabratellidae	Planoglabratella	Planoglabratella opercularis	best hit
+ASV964	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV965	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV967	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV968	species	uncultured Verrucomicrobiota bacterium	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	uncultured Verrucomicrobiota bacterium	best hit
+ASV969	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV970	species	Skeletonema dohrnii	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Skeletonemataceae	Skeletonema	Skeletonema dohrnii	best hit
+ASV971	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV972	species	Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp.	best hit
+ASV973	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV974	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV975	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV976	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV977	species	Menidia menidia	Eukaryota	Chordata	Actinopteri	Atheriniformes	Atherinopsidae	Menidia	Menidia menidia	lca
+ASV978	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV979	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV980	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV981	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV982	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	best hit
+ASV983	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV984	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV985	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV987	genus	Artediellus	Eukaryota	Chordata	Actinopteri	Perciformes	Cottidae	Artediellus	no identification	lca
+ASV988	species	Colwellia sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia sp.	best hit
+ASV989	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV990	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV991	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV993	species	Mola mola	Eukaryota	Chordata	Actinopteri	Tetraodontiformes	Molidae	Mola	Mola mola	lca
+ASV994	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	lca
+ASV995	species	Helicopedinella sp. RCC2284	Eukaryota	unknown phylum	Dictyochophyceae	Pedinellales	unknown family	Helicopedinella	Helicopedinella sp. RCC2284	best hit
+ASV996	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV997	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV998	species	uncultured phototrophic eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured phototrophic eukaryote	best hit
+ASV999	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1001	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1002	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1003	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1004	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1005	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1006	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1007	species	Sundstroemia setigera	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Rhizosoleniales	Rhizosoleniaceae	Sundstroemia	Sundstroemia setigera	best hit
+ASV1008	species	Aureococcus anophagefferens	Eukaryota	unknown phylum	Pelagophyceae	Pelagomonadales	Pelagomonadaceae	Aureococcus	Aureococcus anophagefferens	best hit
+ASV1009	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1010	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1011	species	Hemiselmis cryptochromatica	Eukaryota	unknown phylum	Cryptophyceae	Cryptomonadales	Hemiselmidaceae	Hemiselmis	Hemiselmis cryptochromatica	best hit
+ASV1012	species	Tetraparma gracilis	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Tetraparma	Tetraparma gracilis	best hit
+ASV1013	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	best hit
+ASV1016	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV1019	species	uncultured Phalacroma	Eukaryota	unknown phylum	Dinophyceae	Dinophysales	Dinophysaceae	unknown genus	uncultured Phalacroma	best hit
+ASV1020	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1021	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1022	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1023	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1024	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV1026	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1027	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1029	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV1030	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1031	species	uncultured archaeon	Archaea	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured archaeon	best hit
+ASV1032	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1033	species	Psychrobium sp. nBUS_13	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Psychrobium	Psychrobium sp. nBUS_13	best hit
+ASV1034	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	lca
+ASV1035	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV1036	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1037	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1038	species	Pseudothioglobus sp. nBUS_23	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	Candidatus Pseudothioglobaceae	Candidatus Pseudothioglobus	Pseudothioglobus sp. nBUS_23	best hit
+ASV1039	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1040	species	Gadus morhua	Eukaryota	Chordata	Actinopteri	Gadiformes	Gadidae	Gadus	Gadus morhua	best hit
+ASV1041	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1042	species	Leptocylindrus danicus	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Leptocylindrales	Leptocylindraceae	Leptocylindrus	Leptocylindrus danicus	best hit
+ASV1043	species	uncultured Phycisphaeraceae bacterium	Pseudomonadati	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	unknown genus	uncultured Phycisphaeraceae bacterium	best hit
+ASV1044	species	Stephanopyxis turris	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Melosirales	Stephanopyxidaceae	Stephanopyxis	Stephanopyxis turris	best hit
+ASV1045	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1046	species	Liparis miostomus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis miostomus	best hit
+ASV1047	species	Rubripirellula lacrimiformis	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Rubripirellula	Rubripirellula lacrimiformis	best hit
+ASV1048	species	Prasinoderma singulare	Viridiplantae	Prasinodermophyta	Prasinodermophyceae	Prasinodermales	Prasinodermaceae	Prasinoderma	Prasinoderma singulare	best hit
+ASV1049	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1050	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1051	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1052	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV1053	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1054	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1055	species	Liparis miostomus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis miostomus	best hit
+ASV1056	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1058	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1059	species	Morone americana	Eukaryota	Chordata	Actinopteri	unknown order	Moronidae	Morone	Morone americana	best hit
+ASV1060	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1061	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1062	species	uncultured diatom	Eukaryota	Bacillariophyta	unknown class	unknown order	unknown family	unknown genus	uncultured diatom	best hit
+ASV1063	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1064	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1065	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1066	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV1067	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1068	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1069	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1070	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1072	species	Salvelinus fontinalis x Salvelinus malma	Eukaryota	Chordata	Actinopteri	Salmoniformes	Salmonidae	Salvelinus	Salvelinus fontinalis x Salvelinus malma	best hit
+ASV1073	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1074	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1075	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	filtered out
+ASV1076	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	lca
+ASV1077	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1078	species	Fundulus heteroclitus	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	Fundulidae	Fundulus	Fundulus heteroclitus	lca
+ASV1079	species	Liparis miostomus	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	Liparis miostomus	lca
+ASV1080	species	Anas platyrhynchos	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	Anas platyrhynchos	best hit
+ASV1081	genus	Anas	Eukaryota	Chordata	Aves	Anseriformes	Anatidae	Anas	no identification	lca
+ASV1082	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1083	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1084	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	best hit
+ASV1085	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1086	species	Clupea harengus	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Clupea	Clupea harengus	best hit
+ASV1087	species	Wenyingzhuangia aestuarii	Pseudomonadati	Bacteroidota	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Wenyingzhuangia	Wenyingzhuangia aestuarii	best hit
+ASV1088	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1089	species	Colwellia sp. An23	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia sp. An23	best hit
+ASV1090	genus	Liparis	Eukaryota	Chordata	Actinopteri	Perciformes	Liparidae	Liparis	no identification	lca
+ASV1091	species	uncultured Verrucomicrobiales bacterium	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	unknown family	unknown genus	uncultured Verrucomicrobiales bacterium	best hit
+ASV1092	species	Laminaria solidungula	Eukaryota	unknown phylum	Phaeophyceae	Laminariales	Laminariaceae	Laminaria	Laminaria solidungula	best hit
+ASV1093	species	Ectocarpus sp. RCC1980	Eukaryota	unknown phylum	Phaeophyceae	Ectocarpales	Ectocarpaceae	Ectocarpus	Ectocarpus sp. RCC1980	best hit
+ASV1095	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1096	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1097	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1098	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1099	species	uncultured euryarchaeote	Methanobacteriati	Methanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured euryarchaeote	best hit
+ASV1100	species	Evadne spinifera	Eukaryota	Arthropoda	Branchiopoda	Diplostraca	Podonidae	Evadne	Evadne spinifera	best hit
+ASV1101	species	Triparma verrucosa	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Triparma	Triparma verrucosa	best hit
+ASV1102	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1104	species	uncultured Bacteroidota bacterium	Pseudomonadati	Bacteroidota	unknown class	unknown order	unknown family	unknown genus	uncultured Bacteroidota bacterium	best hit
+ASV1105	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV1106	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV1107	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1109	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1110	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1111	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1112	species	Scomber scombrus	Eukaryota	Chordata	Actinopteri	Scombriformes	Scombridae	Scomber	Scomber scombrus	lca
+ASV1113	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1114	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1115	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1116	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1117	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV1118	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1119	species	uncultured phototrophic eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured phototrophic eukaryote	best hit
+ASV1120	species	uncultured euryarchaeote	Methanobacteriati	Methanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured euryarchaeote	best hit
+ASV1121	species	uncultured deep-sea bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured deep-sea bacterium	best hit
+ASV1122	species	Scomberesox saurus	Eukaryota	Chordata	Actinopteri	Beloniformes	Belonidae	Scomberesox	Scomberesox saurus	lca
+ASV1123	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1124	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1125	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1126	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1127	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1128	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1129	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV1131	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1132	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1133	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1134	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1138	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1139	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1140	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1141	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1142	species	Cognatiyoonia koreensis	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	Paracoccaceae	Cognatiyoonia	Cognatiyoonia koreensis	best hit
+ASV1143	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1144	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1145	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1147	species	Osmerus mordax	Eukaryota	Chordata	Actinopteri	Osmeriformes	Osmeridae	Osmerus	Osmerus mordax	best hit
+ASV1148	species	Merluccius bilinearis	Eukaryota	Chordata	Actinopteri	Gadiformes	Merlucciidae	Merluccius	Merluccius bilinearis	best hit
+ASV1149	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1150	species	Apeltes quadracus	Eukaryota	Chordata	Actinopteri	Perciformes	Gasterosteidae	Apeltes	Apeltes quadracus	best hit
+ASV1151	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1152	species	Psychrobium sp. HaHa3146	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Psychrobium	Psychrobium sp. HaHa3146	best hit
+ASV1153	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1155	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1156	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1157	species	uncultured Verrucomicrobium sp.	Pseudomonadati	Verrucomicrobiota	Verrucomicrobiia	Verrucomicrobiales	Verrucomicrobiaceae	Verrucomicrobium	uncultured Verrucomicrobium sp.	best hit
+ASV1158	species	Leucothrix arctica	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Leucothrix	Leucothrix arctica	best hit
+ASV1159	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1160	species	Triparma verrucosa	Eukaryota	unknown phylum	Bolidophyceae	Parmales	Triparmaceae	Triparma	Triparma verrucosa	best hit
+ASV1161	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1162	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1164	species	Bos taurus	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus	lca
+ASV1165	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1166	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1167	species	Octactis speculum	Eukaryota	unknown phylum	Dictyochophyceae	Dictyochales	Dictyochaceae	Octactis	Octactis speculum	best hit
+ASV1168	species	Verrucomicrobia bacterium SCGC AAA158-O14	Pseudomonadati	Verrucomicrobiota	unknown class	unknown order	unknown family	unknown genus	Verrucomicrobia bacterium SCGC AAA158-O14	best hit
+ASV1170	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1171	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1172	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1173	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1174	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1175	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1176	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1177	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1178	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1179	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1180	species	uncultured Gammaproteobacteria bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured Gammaproteobacteria bacterium	best hit
+ASV1181	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1182	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1183	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1185	species	uncultured protist	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured protist	best hit
+ASV1186	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1187	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1188	species	uncultured Sulfurimonas sp.	Pseudomonadati	Campylobacterota	Epsilonproteobacteria	Campylobacterales	Sulfurimonadaceae	Sulfurimonas	uncultured Sulfurimonas sp.	best hit
+ASV1189	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV1190	species	Attheya longicornis	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	Attheyaceae	Attheya	Attheya longicornis	best hit
+ASV1191	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1192	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1193	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1194	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1195	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1196	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1197	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1198	species	Colwellia sp. HL262	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia sp. HL262	best hit
+ASV1199	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1200	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV1201	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1202	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1203	species	Micromonas sp. J12	Viridiplantae	Chlorophyta	Mamiellophyceae	Mamiellales	Mamiellaceae	Micromonas	Micromonas sp. J12	best hit
+ASV1204	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1205	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1206	species	Leucothrix arctica	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Leucothrix	Leucothrix arctica	best hit
+ASV1208	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1209	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1210	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1211	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1212	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1213	species	Marinicellulosiphila megalodicopiae	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Oceanospirillales	unknown family	Marinicellulosiphila	Marinicellulosiphila megalodicopiae	best hit
+ASV1214	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1215	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1217	species	uncultured Phycisphaeraceae bacterium	Pseudomonadati	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	unknown genus	uncultured Phycisphaeraceae bacterium	best hit
+ASV1218	species	Vibrio sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio sp.	best hit
+ASV1219	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1221	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1222	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1223	species	Synoicihabitans lomoniglobus	Pseudomonadati	Verrucomicrobiota	Opitutia	Opitutales	Opitutaceae	Synoicihabitans	Synoicihabitans lomoniglobus	best hit
+ASV1224	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1225	species	uncultured Colwellia sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	uncultured Colwellia sp.	best hit
+ASV1226	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1227	species	Anatilimnocola sp. NA78	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Anatilimnocola	Anatilimnocola sp. NA78	best hit
+ASV1228	species	Skeletonema tropicum	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Skeletonemataceae	Skeletonema	Skeletonema tropicum	best hit
+ASV1229	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1230	species	alpha proteobacterium SCGC AAA160-B02	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	unknown order	unknown family	unknown genus	alpha proteobacterium SCGC AAA160-B02	best hit
+ASV1231	species	Mesopedinella arctica	Eukaryota	unknown phylum	Dictyochophyceae	Pedinellales	unknown family	Mesopedinella	Mesopedinella arctica	best hit
+ASV1232	species	uncultured marine group III euryarchaeote	Methanobacteriati	Thermoplasmatota	Thermoplasmata	Candidatus Thermoprofundales	unknown family	unknown genus	uncultured marine group III euryarchaeote	best hit
+ASV1233	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1234	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1236	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1238	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1239	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1240	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1241	species	Alphaproteobacteria bacterium Uisw_141_02	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	unknown order	unknown family	unknown genus	Alphaproteobacteria bacterium Uisw_141_02	best hit
+ASV1242	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1243	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1244	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1245	species	uncultured Sinobacterium sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Cellvibrionales	Spongiibacteraceae	Sinobacterium	uncultured Sinobacterium sp.	best hit
+ASV1246	species	Cyanobium usitatum str. Tous	Bacillati	Cyanobacteriota	Cyanophyceae	Synechococcales	Prochlorococcaceae	Cyanobium	Cyanobium usitatum str. Tous	best hit
+ASV1247	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1248	species	Leucocryptos marina	Eukaryota	unknown phylum	Cryptophyceae	Kathablepharidacea	Katablepharidaceae	Leucocryptos	Leucocryptos marina	best hit
+ASV1249	species	Hemiselmis cryptochromatica	Eukaryota	unknown phylum	Cryptophyceae	Cryptomonadales	Hemiselmidaceae	Hemiselmis	Hemiselmis cryptochromatica	best hit
+ASV1250	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1251	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1252	species	Lepidoparma frigida	Eukaryota	unknown phylum	Bolidophyceae	Lepidoparmales	Lepidoparmaceae	Lepidoparma	Lepidoparma frigida	best hit
+ASV1253	species	uncultured marine rappemonad	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine rappemonad	best hit
+ASV1254	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1256	species	uncultured cyanobacterium	Bacillati	Cyanobacteriota	unknown class	unknown order	unknown family	unknown genus	uncultured cyanobacterium	best hit
+ASV1257	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1258	species	uncultured Planctomycetota bacterium	Pseudomonadati	Planctomycetota	unknown class	unknown order	unknown family	unknown genus	uncultured Planctomycetota bacterium	best hit
+ASV1259	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1260	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1261	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1262	species	uncultured Blastopirellula sp.	Pseudomonadati	Planctomycetota	Planctomycetia	Pirellulales	Pirellulaceae	Blastopirellula	uncultured Blastopirellula sp.	best hit
+ASV1263	species	uncultured Parcubacteria group bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured Parcubacteria group bacterium	lca
+ASV1265	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1266	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1267	species	uncultured Phycisphaeraceae bacterium	Pseudomonadati	Planctomycetota	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	unknown genus	uncultured Phycisphaeraceae bacterium	best hit
+ASV1268	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1269	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1270	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1271	species	Psychromonas sp.	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas sp.	best hit
+ASV1272	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1273	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1274	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1275	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1276	species	uncultured Rhodobacterales bacterium	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Rhodobacterales	unknown family	unknown genus	uncultured Rhodobacterales bacterium	best hit
+ASV1277	species	uncultured marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine bacterium	best hit
+ASV1278	species	Homo sapiens	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens	best hit
+ASV1279	species	uncultured Planctomycetaceae bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	Planctomycetaceae	unknown genus	uncultured Planctomycetaceae bacterium	best hit
+ASV1280	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1281	species	Leucothrix arctica	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	Thiotrichales	Thiotrichaceae	Leucothrix	Leucothrix arctica	best hit
+ASV1282	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1283	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1284	species	uncultured eukaryotic phytoplankton	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured eukaryotic phytoplankton	best hit
+ASV1285	species	uncultured Phenylobacterium sp.	Pseudomonadati	Pseudomonadota	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium	uncultured Phenylobacterium sp.	best hit
+ASV1286	species	uncultured Planctomycetales bacterium	Pseudomonadati	Planctomycetota	Planctomycetia	Planctomycetales	unknown family	unknown genus	uncultured Planctomycetales bacterium	lca
+ASV1288	species	uncultured protist	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured protist	best hit
+ASV1289	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1291	species	uncultured Puniceicoccaceae bacterium	Pseudomonadati	Verrucomicrobiota	Opitutia	Puniceicoccales	Puniceicoccaceae	unknown genus	uncultured Puniceicoccaceae bacterium	best hit
+ASV1292	species	uncultured OM27 clade bacterium	Pseudomonadati	Pseudomonadota	Gammaproteobacteria	unknown order	unknown family	unknown genus	uncultured OM27 clade bacterium	best hit
+ASV1293	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1294	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1295	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1296	species	uncultured delta proteobacterium	Bacteria	unknown phylum	Deltaproteobacteria	unknown order	unknown family	unknown genus	uncultured delta proteobacterium	best hit
+ASV1297	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1298	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV1300	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1301	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	filtered out
+ASV1302	species	marine bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	marine bacterium	best hit
+ASV1303	species	uncultured Chrysophyceae	Eukaryota	unknown phylum	Chrysophyceae	unknown order	unknown family	unknown genus	uncultured Chrysophyceae	best hit
+ASV1304	genus	unknown genus	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	no identification	lca
+ASV1305	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1306	species	Virgulinella fragilis	Eukaryota	Foraminifera	unknown class	Rotaliida	unknown family	Virgulinella	Virgulinella fragilis	best hit
+ASV1307	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	lca
+ASV1308	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1309	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1310	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV1311	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
+ASV1314	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no identification	no lca
+ASV1315	species	uncultured Parcubacteria group bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured Parcubacteria group bacterium	best hit
+ASV1316	species	uncultured marine eukaryote	Eukaryota	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured marine eukaryote	best hit
+ASV1317	species	uncultured bacterium	Bacteria	unknown phylum	unknown class	unknown order	unknown family	unknown genus	uncultured bacterium	best hit
