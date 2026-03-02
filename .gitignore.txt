@@ -1,8 +1,4 @@
 .Rhistory
 .RData
 .Rproj.user
-*.rds
-*.Rds
-*.html
-*.csv
 data/

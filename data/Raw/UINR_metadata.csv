@@ -1,0 +1,159 @@
+SampleName,Smith-RootNumber,sampleDate,sampleLocation,latitude,longitude,sampleReplicate,volumeFiltered,targetVolume,collectedBy,waterTemperature,waterDepth,speciesOberved,SamplingNotes,elutionVolume,DNAConcentration,extractionBlank,extractionDate,extractionStaff,extractionNotes
+KCNC01,15,2025-12-12,"Kelly's Cove, New Campbellton",46.289294,-60.436334,1,3.01,3,"Morgan, Abby, Seth",2.5 C °,1.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+KCNC02,15,2025-12-12,"Kelly's Cove, New Campbellton",46.289294,-60.436334,2,3.01,3,"Morgan, Abby, Seth",2.5 C °,1.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+KCNC03,15,2025-12-12,"Kelly's Cove, New Campbellton",46.289294,-60.436334,3,3.01,3,"Morgan, Abby, Seth",2.5 C °,1.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+KCNCFB,16,2025-12-12,,,,Field blank,2.02,,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+CP01,20,2025-12-12,Cain's Pond,46.089848,-60.859416,1,2.4,3,"Morgan, Abby, Seth",1.9 C °,0.2,Amercian Crow,"Water was slushing up in the tube because freshwater was freezing, so we sampled the water from a bowl in the truck to keep it from freezing",150,,UINR-DFO-XN1,2026-01-21,SM,Cloudy solution after Qiashredder
+CP02,20,2025-12-12,Cain's Pond,46.089848,-60.859416,2,2.4,3,"Morgan, Abby, Seth",1.9 C °,0.2,Amercian Crow,,150,,UINR-DFO-XN1,2026-01-21,SM,
+CP03,20,2025-12-12,Cain's Pond,46.089848,-60.859416,3,2.4,3,"Morgan, Abby, Seth",1.9 C °,0.2,Amercian Crow,,150,,UINR-DFO-XN1,2026-01-21,SM,
+CPFB,21,2025-12-12,,,,Field blank,1.58,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+MC01,,2025-12-16,Meat Cove,,,1,3.13,3,"Abby, Seth",,0.3,,"Ocean waves at this site were very agrressive, we lost two of the clear tubes that connect to the filters in the ocean",150,,UINR-DFO-XN1,2026-01-21,SM,
+MC02,,2025-12-16,Meat Cove,,,2,3.13,3,"Abby, Seth",,0.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+MC03,,2025-12-16,Meat Cove,,,3,3.13,3,"Abby, Seth",,0.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,Cloudy solution after Qiashredder
+MCFB,,2025-12-16,,,,Field blank,,,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+II01,29,2025-12-16,Ingonish Island,,,1,3.04,3,"Abby, Seth",3 C °,0.16,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+II02,29,2025-12-16,Ingonish Island,,,2,3.04,3,"Abby, Seth",3 C °,0.16,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+II03,29,2025-12-16,Ingonish Island,,,3,3.04,3,"Abby, Seth",3 C °,0.16,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+IIFB,,2025-12-16,,,,Field blank,,,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+MR01,35,2025-12-17,Middle River,46.083032,-60.910548,1,3.04,3,"Morgan, Abby, Seth",1.2 C °,0.25,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+MR02,35,2025-12-17,Middle River,46.083032,-60.910548,2,3.04,3,"Morgan, Abby, Seth",1.2 C °,0.25,,,150,,UINR-DFO-XN1,2026-01-21,SM,Cloudy solution after Qiashredder
+MR03,35,2025-12-17,Middle RIver,46.083032,-60.910548,3,3.04,3,"Morgan, Abby, Seth",1.2 C °,0.25,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+MRFB,37,2025-12-17,,,,Field blank,2.03,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+SR01,39,2025-12-17,Skye River,45.972045,-61.131947,1,3.14,3,"Morgan, Abby, Seth",1.2 C °,0.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+SR02,39,2025-12-17,Skye River,45.972045,-61.131947,2,3.14,3,"Morgan, Abby, Seth",1.2 C °,0.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,Cloudy solution after Qiashredder
+SR03,39,2025-12-17,Skye River,45.972045,-61.131947,3,3.14,3,"Morgan, Abby, Seth",1.2 C °,0.3,,,150,,UINR-DFO-XN1,2026-01-21,SM,Cloudy solution after Qiashredder
+SRFB,40,2025-12-17,,,,Field blank,2.14,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+CC1,41,2025-12-17,Corbett's Cove,45.660779,-60.838803,1,3.08,3,"Morgan, Abby, Seth",3.2 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+CC2,41,2025-12-17,Corbett's Cove,45.660779,-60.838803,2,3.08,3,"Morgan, Abby, Seth",3.2 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+CC3,41,2025-12-17,Corbett's Cove,45.660779,-60.838803,3,3.08,3,"Morgan, Abby, Seth",3.2 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+CCFB,42,2025-12-17,,,,Field blank,2.08,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,SM,no filter in tube
+PO1,43,2025-12-17,Potlotek,45.706553,-60.775584,1,3.06,3,"Morgan, Abby, Seth",3.8 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+PO2,43,2025-12-17,Potlotek,45.706553,-60.775584,2,3.06,3,"Morgan, Abby, Seth",3.8 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,SM,
+PO3,43,2025-12-17,Potlotek,45.706553,-60.775584,3,3.06,3,"Morgan, Abby, Seth",3.8 C °,0.15,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+POFB,44,2025-12-17,,,,Field blank,2.04,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+RI01,45,2025-12-17,Red Islands,45.799913,-60.732706,1,3.07,3,"Morgan, Abby, Seth",4.1 C °,0.22,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+RI02,45,2025-12-17,Red Islands,45.799913,-60.732706,2,3.07,3,"Morgan, Abby, Seth",4.1 C °,0.22,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+RI03,45,2025-12-17,Red Islands,45.799913,-60.732706,3,3.07,3,"Morgan, Abby, Seth",4.1 C °,0.22,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+RIFB,46,2025-12-17,,,,Field blank,2.17,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+IP01,47,2025-12-18,Iona Port,45.962566,-60.802063,1,3.03,3,"Abby, Skyler, Levi",,4,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+IP02,47,2025-12-18,Iona Port,45.962566,-60.802063,2,3.03,3,"Abby, Skyler, Levi",,4,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+IP03,47,2025-12-18,Iona Port,45.962566,-60.802063,3,3.03,3,"Abby, Skyler, Levi",,4,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+IPFB,48,2025-12-18,,,,Field blank,3.01,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+RD01,49,2025-12-18,River Denys,45.854348,-61.08908,1,3.1,3,"Abby, Skyler, Levi",,1,,"~ 84 % ice over, and two of the filter bags floated away in the river, so we ended up putting the filters in other plastic bags we had and transferred them into new eDNA bags at the garage… might impact results",150,,UINR-DFO-XN1,2026-01-21,RC,
+RD02,49,2025-12-18,River Denys,45.854348,-61.08908,2,3.1,3,"Abby, Skyler, Levi",,1,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+RD03,49,2025-12-18,River Denys,45.854348,-61.08908,3,3.1,3,"Abby, Skyler, Levi",,1,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+RDFB,50,2025-12-18,,,,Field blank,3.04,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+MG01,51,2025-12-18,Margaree,46.397294,-61.078438,1,3.05,3,"Abby, Skyler, Levi",,2,,,150,,UINR-DFO-XN1,2026-01-21,RC,Cloudy solution after Qiashredder
+MG02,51,2025-12-18,Margaree,46.397294,-61.078438,2,3.05,3,"Abby, Skyler, Levi",,2,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+MG03,51,2025-12-18,Margaree,46.397294,-61.078438,3,3.05,3,"Abby, Skyler, Levi",,2,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+MGFB,53,2025-12-18,,,,Field blank,3.11,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+NR01,54,2025-12-18,"North River, Baddeck",46.314022,-60.638731,1,3.1,3,"Abby, Skyler, Levi",,0.3,,"On the way back to the truck, the person holding the filters fell and two filters touched the snow on the ground",150,,UINR-DFO-XN1,2026-01-21,RC,
+NR02,54,2025-12-18,"North River, Baddeck",46.314022,-60.638731,2,3.1,3,"Abby, Skyler, Levi",,0.3,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+NR03,54,2025-12-18,"North River, Baddeck",46.314022,-60.638731,3,3.1,3,"Abby, Skyler, Levi",,0.3,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+NRFB,55,2025-12-18,,,,Field blank,,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+OCB01,57,2025-12-19,Old Castle Bay,45.909401,-60.677876,1,3,3,"Morgan, Abby, Seth",,0.15,,"~85% ice overage, water was slushing up in the tubes, this sampling took a very long time",150,,UINR-DFO-XN1,2026-01-21,RC,
+OCB02,57,2025-12-19,Old Castle Bay,45.909401,-60.677876,2,3,3,"Morgan, Abby, Seth",,0.15,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+OCB03,57,2025-12-19,Old Castle Bay,45.909401,-60.677876,3,3,3,"Morgan, Abby, Seth",,0.15,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+OCBFB,58,2025-12-19,,,,Field blank,1.87,3,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,no filter in tube
+CBP01,60,2025-12-19,Castle Bay Pond,45.918104,-60.651653,1,3,3,"Morgan, Seth",,,,,150,,UINR-DFO-XN1,2026-01-21,RC,No field blanks associated with CBP
+CBP02,60,2025-12-19,Castle Bay Pond,45.918104,-60.651653,2,3,3,"Morgan, Seth",,,,,150,,UINR-DFO-XN1,2026-01-21,RC,
+CBP03,60,2025-12-19,Castle Bay Pond,45.918104,-60.651653,3,3,3,"Morgan, Seth",,,,,150,,UINR-DFO-XN1,2026-01-22,RC,Cloudy solution after Qiashredder
+522689,693,2025-10-18,STAB_02,46.1081,-59.368,1,4.28,4,"Morgan, Joef",,58,,St. Anns Bank AZMP line,150,,UINR-DFO-XN2,2026-01-22,SM,
+522690,694,2025-10-18,STAB_02,46.1081,-59.368,2,4.29,4,"Morgan, Joef",,58,,All STAB depths in metres,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+522676,691,2025-10-18,STAB_01,45.9922,-59.5395,1,4.26,4,"Morgan, Joef",,51.35,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+522677,692,2025-10-18,STAB_01,45.9922,-59.5395,2,4.25,4,"Morgan, Joef",,51.35,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+STAB_04-FB,704,2025-10-20,STAB_04,NA,NA,Field blank,2.16,2,"Morgan, Joef",,NA,,,150,,UINR-DFO-XN2,2026-01-22,SM,blank filter in tube. Cloudy solution after Qiashredder
+522800,703,2025-10-20,STAB_04,46.3224,-59.0503,2,4.25,4,"Morgan, Joef",,150.5,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+522799,702,2025-10-20,STAB_04,46.3224,-59.0503,1,4.24,4,"Morgan, Joef",,150.5,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+522752,699,2025-10-20,STAB_06,46.654,-58.5422,2,4.21,4,"Morgan, Joef",,408.6,,,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+522751,698,2025-10-20,STAB_06,46.654,-58.5422,1,4.22,4,"Morgan, Joef",,408.6,,,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+522776,701,2025-10-20,STAB_05,46.4168,-58.8811,2,4.28,4,"Morgan, Joef",,364.2,,,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+522775,700,2025-10-20,STAB_05,46.4168,-58.8811,1,4.34,4,"Morgan, Joef",,364.2,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+522700,696,2025-10-18,STAB_03,46.2143,-59.1929,2,4.22,4,"Morgan, Joef",,86,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+522699,695,2025-10-18,STAB_03,46.2143,-59.1929,1,4.29,4,"Morgan, Joef",,86,,,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+STAB_03-FB,697,2025-10-19,STAB_03,NA,NA,Field blank,2.05,4,"Morgan, Joef",,NA,,,150,,UINR-DFO-XN2,2026-01-22,SM,blank filter in tube
+KIPCA07,7,2025-06-12,KIPCA,46.344,-60.435,1,3.06,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+KIPCA03,5,2025-06-12,KIPCA,46.344,-60.435,1,3.34,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,
+KIPCA06,6,2025-06-12,KIPCA,46.344,-60.435,1,3.12,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+KIPCA09,9,2025-06-12,KIPCA,46.344,-60.435,1,3.06,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+KIPCA08,8,2025-06-12,KIPCA,46.344,-60.435,1,3.06,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,Cloudy solution after Qiashredder
+KIPCA01,5,2025-06-12,KIPCA,46.344,-60.435,1,3.34,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,
+KIPCA05,6,2025-06-12,KIPCA,46.344,-60.435,1,3.12,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,
+KIPCA02,5,2025-06-12,KIPCA,46.344,-60.435,1,3.34,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,
+KIPCA04,6,2025-06-12,KIPCA,46.344,-60.435,1,3.12,4,"Ryan, Shae, John Frank, Nick, Harri",,0.5,,Sampled from shore near Kluscap's Cave. Sampled from the Perley in June 2025,150,,UINR-DFO-XN2,2026-01-22,SM,"Filter was shipped dry, in Smith root casing, unrefrigerated. Filter soaked in Longmire's in 2mL tube before removing buffer to cut filter and add ATL + protK."
+UINR-DFO-XN1,,,,,,Extraction blank,,,,,,,,150,,UINR-DFO-XN1,2026-01-21,RC,blank filter in tube. Cloudy solution after Qiashredder
+UINR-DFO-XN2,,,,,,Extraction blank,,,,,,,,150,,UINR-DFO-XN2,2026-01-22,SM,
+PCR_blank_1,,,,,,PCR blank,,,,,,,,,,,,,
+Cartier_Blank1,,2023-07-01,Scotian Shelf - Bay of Fundy,NA,NA,Field blank,3,,,,NA,,,,0.893,,2024-03-21,DFO,
+496832,,2023-07-01,Scotian Shelf - Bay of Fundy,42.58935,-65.78355,,3,,,,90,,,,17.153,,2024-03-20,DFO,
+496833,,2023-07-01,Scotian Shelf - Bay of Fundy,42.58935,-65.78355,,3,,,,90,,,,18.554,,2024-03-21,DFO,
+496838,,2023-07-01,Scotian Shelf - Bay of Fundy,42.62438333,-65.8672,,3,,,,86,,,,5.987,,2024-03-20,DFO,
+496839,,2023-07-01,Scotian Shelf - Bay of Fundy,42.62438333,-65.8672,,3,,,,86,,,,7.9,,2024-03-20,DFO,
+496840,,2023-07-01,Scotian Shelf - Bay of Fundy,42.62438333,-65.8672,,3,,,,86,,,,11.68,,2024-03-20,DFO,
+496870,,2023-07-02,Scotian Shelf - Bay of Fundy,43.25921667,-67.10371667,,3,,,,214,,,,10.475,,2024-03-21,DFO,
+496936,,2023-07-07,Scotian Shelf - Bay of Fundy,42.57501667,-67.07121667,,3,,,,302,,,,6.341,,2024-03-20,DFO,
+496937,,2023-07-07,Scotian Shelf - Bay of Fundy,42.57501667,-67.07121667,,3,,,,302,,,,6.033,,2024-03-21,DFO,
+Cartier_Blank2,,2023-07-08,Scotian Shelf - Bay of Fundy,NA,NA,Field blank,3,,,,NA,,,,0.714,,2024-03-21,DFO,
+496952,,2023-07-08,Scotian Shelf - Bay of Fundy,42.1523,-65.63963333,,3,,,,266,,,,1.043,,2024-03-21,DFO,
+496954,,2023-07-08,Scotian Shelf - Bay of Fundy,42.1523,-65.63963333,,3,,,,266,,,,2.197,,2024-03-21,DFO,
+496959,,2023-07-08,Scotian Shelf - Bay of Fundy,42.18745,-65.46611667,,3,,,,119,,,,4.621,,2024-03-21,DFO,
+496960,,2023-07-08,Scotian Shelf - Bay of Fundy,42.18745,-65.46611667,,3,,,,119,,,,4.558,,2024-03-21,DFO,
+496961,,2023-07-08,Scotian Shelf - Bay of Fundy,42.18745,-65.46611667,,3,,,,119,,,,3.199,,2024-03-21,DFO,
+496971,,2023-07-08,Scotian Shelf - Bay of Fundy,42.42943333,-65.31213333,,3,,,,110,,,,13.543,,2024-03-21,DFO,
+496972,,2023-07-08,Scotian Shelf - Bay of Fundy,42.42943333,-65.31213333,,3,,,,110,,,,14.627,,2024-03-21,DFO,
+497040,,2023-07-16,Scotian Shelf - Bay of Fundy,43.15005,-62.54345,,3,,,,101,,,,7.264,,2024-03-20,DFO,
+497046,,2023-07-16,Scotian Shelf - Bay of Fundy,43.12698333,-62.85458333,,3,,,,109,,,,8.019,,2024-03-21,DFO,
+497047,,2023-07-16,Scotian Shelf - Bay of Fundy,43.12698333,-62.85458333,,3,,,,109,,,,5.993,,2024-03-20,DFO,
+497058,,2023-07-17,Scotian Shelf - Bay of Fundy,43.596,-62.49208333,,3,,,,75,,,,8.637,,2024-03-21,DFO,
+497059,,2023-07-17,Scotian Shelf - Bay of Fundy,43.596,-62.49208333,,3,,,,75,,,,11.224,,2024-03-20,DFO,
+Cartier_Blank3,,2023-07-17,Scotian Shelf - Bay of Fundy,NA,NA,Field blank,3,,,,NA,,,,0.644,,2024-03-21,DFO,
+497064,,2023-07-17,Scotian Shelf - Bay of Fundy,43.47048333,-62.34215,,3,,,,76,,,,8.371,,2024-03-20,DFO,
+497065,,2023-07-17,Scotian Shelf - Bay of Fundy,43.47048333,-62.34215,,3,,,,76,,,,10.712,,2024-03-20,DFO,
+497070,,2023-07-17,Scotian Shelf - Bay of Fundy,43.37376667,-62.21276667,,3,,,,98,,,,5.588,,2024-03-21,DFO,
+497071,,2023-07-17,Scotian Shelf - Bay of Fundy,43.37376667,-62.21276667,,3,,,,98,,,,5.113,,2024-03-21,DFO,
+497076,,2023-07-17,Scotian Shelf - Bay of Fundy,43.57848333,-62.06091667,,3,,,,91,,,,8.836,,2024-03-21,DFO,
+497098,,2023-07-18,Scotian Shelf - Bay of Fundy,44.02343333,-61.42018333,,3,,,,119,,,,14.789,,2024-03-20,DFO,
+497099,,2023-07-18,Scotian Shelf - Bay of Fundy,44.02343333,-61.42018333,,3,,,,119,,,,10.074,,2024-03-20,DFO,
+497148,,2023-07-20,Scotian Shelf - Bay of Fundy,43.89046667,-58.8249,,3,,,,268,,,,3.342,,2024-03-20,DFO,
+497149,,2023-07-20,Scotian Shelf - Bay of Fundy,43.89046667,-58.8249,,3,,,,268,,,,2.572,,2024-03-21,DFO,
+497173,,2023-07-21,Scotian Shelf - Bay of Fundy,44.16731667,-59.26706667,,3,,,,236,,,,5.822,,2024-03-20,DFO,
+497174,,2023-07-21,Scotian Shelf - Bay of Fundy,44.16731667,-59.26706667,,3,,,,236,,,,5.782,,2024-03-20,DFO,
+497535,,2023-07-27,Scotian Shelf - Bay of Fundy,44.64676667,-62.22801667,,3,,,,135,,,,9.034,,2024-03-21,DFO,
+497536,,2023-07-27,Scotian Shelf - Bay of Fundy,44.64676667,-62.22801667,,3,,,,135,,,,6.164,,2024-03-21,DFO,
+497573,,2023-07-28,Scotian Shelf - Bay of Fundy,45.9884,-59.67,,3,,,,50,,,,15.263,,2024-03-21,DFO,
+497574,,2023-07-28,Scotian Shelf - Bay of Fundy,45.9884,-59.67,,3,,,,50,,,,12.635,,2024-03-21,DFO,
+497587,,2023-07-29,Scotian Shelf - Bay of Fundy,45.84928,-59.00163333,,3,,,,172,,,,5.456,,2024-03-20,DFO,
+497592,,2023-07-29,Scotian Shelf - Bay of Fundy,46.0219,-59.23726667,,3,,,,68,,,,8.32,,2024-03-21,DFO,
+497593,,2023-07-29,Scotian Shelf - Bay of Fundy,46.0219,-59.23726667,,3,,,,68,,,,8.258,,2024-03-20,DFO,
+497679,,2023-08-01,Scotian Shelf - Bay of Fundy,46.12838333,-58.8935,,3,,,,140,,,,7.087,,2024-03-21,DFO,
+497680,,2023-08-01,Scotian Shelf - Bay of Fundy,46.12838333,-58.8935,,3,,,,140,,,,7.883,,2024-03-21,DFO,
+497685,,2023-08-01,Scotian Shelf - Bay of Fundy,46.17483333,-58.56756667,,3,,,,343,,,,6.227,,2024-03-20,DFO,
+497686,,2023-08-01,Scotian Shelf - Bay of Fundy,46.17483333,-58.56756667,,3,,,,343,,,,5.508,,2024-03-21,DFO,
+497883,,2023-08-11,Scotian Shelf - Bay of Fundy,42.32223333,-65.57593333,,3,,,,101,,,,9.294,,2024-03-20,DFO,
+497884,,2023-08-11,Scotian Shelf - Bay of Fundy,42.32223333,-65.57593333,,3,,,,101,,,,8.479,,2024-03-20,DFO,
+497929,,2023-08-12,Scotian Shelf - Bay of Fundy,42.54465,-66.51966,,3,,,,172,,,,4.57,,2024-03-21,DFO,
+497934,,2023-08-12,Scotian Shelf - Bay of Fundy,42.52261667,-66.1587,,3,,,,215,,,,3.199,,2024-03-21,DFO,
+497935,,2023-08-12,Scotian Shelf - Bay of Fundy,42.52261667,-66.1587,,3,,,,215,,,,3.17,,2024-03-21,DFO,
+497940,,2023-08-13,Scotian Shelf - Bay of Fundy,42.43656667,-66.06621667,,3,,,,238,,,,2.71,,2024-03-21,DFO,
+497941,,2023-08-13,Scotian Shelf - Bay of Fundy,42.43656667,-66.06621667,,3,,,,238,,,,1.349,,2024-03-20,DFO,
+413325,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,3,,,,112,,,,6.233,,2024-03-20,DFO,
+413326,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,4,,,,112,,,,6.273,,2024-03-21,DFO,
+413327,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,5,,,,112,,,,6.518,,2024-03-20,DFO,
+413328,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,6,,,,2,,,,25.301,,2024-03-20,DFO,
+413329,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,7,,,,2,,,,22.58,,2024-03-20,DFO,
+413330,,2023-08-11,Eastern Shore Islands,44.6694,-62.3476833,,8,,,,2,,,,24.458,,2024-03-21,DFO,
+413331,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,9,,,,71,,,,3.664,,2024-03-21,DFO,
+413332,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,10,,,,71,,,,3.985,,2024-03-20,DFO,
+413333,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,11,,,,71,,,,4.604,,2024-03-20,DFO,
+413334,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,12,,,,2,,,,17.719,,2024-03-20,DFO,
+413335,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,13,,,,2,,,,22.552,,2024-03-20,DFO,
+413336,,2023-08-11,Eastern Shore Islands,44.7229,-62.4088,,14,,,,2,,,,23.088,,2024-03-20,DFO,
+413337,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,15,,,,14,,,,20.071,,2024-03-20,DFO,
+413338,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,16,,,,14,,,,20.363,,2024-03-20,DFO,
+413339,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,17,,,,14,,,,18.952,,2024-03-20,DFO,
+413340,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,18,,,,2,,,,23.263,,2024-03-21,DFO,
+413341,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,19,,,,2,,,,34.157,,2024-03-20,DFO,
+413342,,2023-08-11,Eastern Shore Islands,44.8225,-62.4804417,,20,,,,2,,,,33.657,,2024-03-20,DFO,
+X001,,,,,,Extraction blank,,,,,,,,,0,,2024-03-20,DFO,
+X002,,,,,,Extraction blank,,,,,,,,,0,,2024-03-21,DFO,
+PCR_blank_2,,,,,,PCR blank,,,,,,,,,,,,,
