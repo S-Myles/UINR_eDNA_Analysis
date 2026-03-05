@@ -1,0 +1,134 @@
+marker,ASV_12S,ASV_16S,lca rank,lca taxon,kingdom,phylum,class,order,family,genus,species,method,OBIS_Commonname,OBIS_DemersPelag,OBIS_AnaCat,OBIS_Importance
+both,ASV1,ASV2,species,Merluccius bilinearis,Eukaryota,Chordata,Actinopteri,Gadiformes,Merlucciidae,Merluccius,Merluccius bilinearis,best hit,Silver hake,demersal,oceanodromous,highly commercial
+both,ASV2,ASV1,species,Sebastes mentella,Eukaryota,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes mentella,best hit,Beaked redfish,bathypelagic,oceanodromous,commercial
+both,ASV3,ASV25,species,Clupea harengus,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea,Clupea harengus,best hit,Atlantic herring,benthopelagic,oceanodromous,highly commercial
+both,ASV4,ASV5,species,Gasterosteus aculeatus,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,best hit,Three-spined stickleback,benthopelagic,anadromous,minor commercial
+both,ASV5,ASV4,species,Tautogolabrus adspersus,Eukaryota,Chordata,Actinopteri,Labriformes,Labridae,Tautogolabrus,Tautogolabrus adspersus,best hit,Cunner,reef-associated,NA,commercial
+both,ASV6,ASV6,species,Salmo salar,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,Salmo salar,best hit,Atlantic salmon,benthopelagic,anadromous,highly commercial
+both,ASV7,ASV7,species,Gadus morhua,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus morhua,best hit,Atlantic cod,benthopelagic,oceanodromous,highly commercial
+both,ASV8,ASV20,species,Urophycis chuss,Eukaryota,Chordata,Actinopteri,Gadiformes,Phycidae,Urophycis,Urophycis chuss,best hit,Red hake,demersal,oceanodromous,commercial
+both,ASV9,ASV3,species,Osmerus mordax,Eukaryota,Chordata,Actinopteri,Osmeriformes,Osmeridae,Osmerus,Osmerus mordax,best hit,Rainbow smelt,pelagic-oceanic,anadromous,commercial
+both,ASV10,ASV10,species,Pholis gunnellus,Eukaryota,Chordata,Actinopteri,Perciformes,Pholidae,Pholis,Pholis gunnellus,best hit,Rock gunnel,demersal,non-migratory,of no interest
+both,ASV11,ASV11,species,Menidia menidia,Eukaryota,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Menidia,Menidia menidia,best hit,Atlantic silverside,pelagic-neritic,oceanodromous,minor commercial
+both,ASV12,ASV13,species,Fundulus heteroclitus,Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus heteroclitus,best hit,Mummichog,benthopelagic,non-migratory,commercial
+12S,ASV13,NA,species,Salvelinus fontinalis x Salvelinus malma,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salvelinus,Salvelinus fontinalis x Salvelinus malma,best hit,NA,NA,NA,NA
+both,ASV14,ASV36,species,Melanogrammus aeglefinus,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Melanogrammus,Melanogrammus aeglefinus,best hit,Haddock,demersal,oceanodromous,highly commercial
+both,ASV15,ASV15,species,Scomber scombrus,Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Scomber,Scomber scombrus,best hit,Atlantic mackerel,pelagic-neritic,oceanodromous,highly commercial
+both,ASV17,ASV12,species,Ammodytes dubius,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes dubius,best hit,Northern sand lance,demersal,NA,of potential interest
+12S,ASV18,NA,species,Anarhichas denticulatus,Eukaryota,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarhichas,Anarhichas denticulatus,best hit,Northern wolffish,benthopelagic,oceanodromous,of no interest
+both,ASV20,ASV39,species,Myoxocephalus aenaeus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus aenaeus,best hit,Grubby,demersal,NA,NA
+both,ASV22,ASV19,species,Apeltes quadracus,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Apeltes,Apeltes quadracus,best hit,Fourspine stickleback,benthopelagic,NA,commercial
+both,ASV23,ASV17,species,Microgadus tomcod,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Microgadus,Microgadus tomcod,best hit,Atlantic tomcod,demersal,anadromous,minor commercial
+both,ASV24,ASV30,species,Glyptocephalus cynoglossus,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus cynoglossus,best hit,Witch flounder,demersal,oceanodromous,commercial
+both,ASV25,ASV130,species,Ammodytes marinus,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes marinus,best hit,Lesser sand-eel,benthopelagic,NA,commercial
+both,ASV28,ASV33,species,Hippoglossoides platessoides,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossoides,Hippoglossoides platessoides,best hit,American plaice,demersal,oceanodromous,highly commercial
+both,ASV29,ASV16,species,Syngnathus fuscus,Eukaryota,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus fuscus,best hit,Northern pipefish,demersal,amphidromous,NA
+both,ASV30,ASV521,species,Anguilla rostrata,Eukaryota,Chordata,Actinopteri,Anguilliformes,Anguillidae,Anguilla,Anguilla rostrata,best hit,American eel,demersal,catadromous,commercial
+both,ASV31,ASV27,species,Salmo trutta,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,Salmo trutta,best hit,Sea trout,pelagic-neritic,anadromous,commercial
+both,ASV32,ASV68,species,Fundulus diaphanus,Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus diaphanus,best hit,Banded killifish,benthopelagic,non-migratory,commercial
+both,ASV33,ASV41,species,Triglops murrayi,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Triglops,Triglops murrayi,best hit,Moustache sculpin,demersal,non-migratory,of no interest
+12S,ASV36,NA,species,Pseudopleuronectes americanus,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,Pseudopleuronectes americanus,best hit,Winter flounder,demersal,oceanodromous,commercial
+12S,ASV39,NA,species,Myoxocephalus thompsonii,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus thompsonii,best hit,NA,NA,NA,NA
+both,ASV40,ASV34,species,Myoxocephalus octodecemspinosus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus octodecemspinosus,best hit,Longhorn sculpin,demersal,NA,NA
+both,ASV41,ASV46,species,Pungitius pungitius,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Pungitius,Pungitius pungitius,best hit,Ninespine stickleback,benthopelagic,anadromous,subsistence fisheries
+both,ASV42,ASV35,species,Citharichthys arctifrons,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Cyclopsettidae,Citharichthys,Citharichthys arctifrons,best hit,Gulf Stream flounder,demersal,NA,NA
+both,ASV44,ASV49,species,Hippoglossus hippoglossus,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossus,Hippoglossus hippoglossus,best hit,Atlantic halibut,demersal,oceanodromous,commercial
+both,ASV47,ASV21,species,Catostomus commersonii,Eukaryota,Chordata,Actinopteri,Cypriniformes,Catostomidae,Catostomus,Catostomus commersonii,best hit,White sucker,demersal,NA,minor commercial
+12S,ASV52,NA,species,Liparis gibbus,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis gibbus,best hit,Variegated snailfish,demersal,NA,NA
+12S,ASV57,NA,species,Menidia beryllina,Eukaryota,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Menidia,Menidia beryllina,best hit,Inland silverside,pelagic-neritic,NA,commercial
+12S,ASV59,NA,species,Eumesogrammus praecisus,Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Eumesogrammus,Eumesogrammus praecisus,best hit,Fourline snakeblenny,benthopelagic,NA,NA
+12S,ASV65,NA,species,Liparis miostomus,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis miostomus,best hit,NA,NA,NA,NA
+both,ASV66,ASV50,species,Lophius americanus,Eukaryota,Chordata,Actinopteri,Lophiiformes,Lophiidae,Lophius,Lophius americanus,best hit,American angler,demersal,oceanodromous,highly commercial
+12S,ASV67,NA,species,Artediellus atlanticus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Artediellus,Artediellus atlanticus,best hit,Atlantic hookear sculpin,demersal,NA,NA
+both,ASV68,ASV31,species,Scomberesox saurus,Eukaryota,Chordata,Actinopteri,Beloniformes,Belonidae,Scomberesox,Scomberesox saurus,best hit,Atlantic saury,pelagic-oceanic,oceanodromous,minor commercial
+both,ASV69,ASV60,species,Oncorhynchus mykiss,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Oncorhynchus,Oncorhynchus mykiss,best hit,Rainbow trout,benthopelagic,anadromous,highly commercial
+both,ASV70,ASV67,species,Mola mola,Eukaryota,Chordata,Actinopteri,Tetraodontiformes,Molidae,Mola,Mola mola,best hit,Ocean sunfish,pelagic-oceanic,oceanodromous,minor commercial
+12S,ASV72,NA,species,Liparis inquilinus,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis inquilinus,best hit,Inquiline snailfish,demersal,NA,NA
+both,ASV73,ASV64,species,Lumpenus lampretaeformis,Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Lumpenus,Lumpenus lampretaeformis,best hit,Snakeblenny,demersal,non-migratory,of no interest
+12S,ASV74,NA,species,Thunnus thynnus,Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Thunnus,Thunnus thynnus,best hit,Atlantic bluefin tuna,pelagic-oceanic,oceanodromous,commercial
+both,ASV75,ASV535,species,Alosa pseudoharengus,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa pseudoharengus,best hit,Alewife,pelagic-neritic,anadromous,commercial
+both,ASV78,ASV159,species,Leptoclinus maculatus,Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Leptoclinus,Leptoclinus maculatus,best hit,Daubed shanny,demersal,NA,NA
+12S,ASV80,NA,species,Ceratoscopelus maderensis,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Ceratoscopelus,Ceratoscopelus maderensis,best hit,Madeira lantern fish,bathypelagic,oceanodromous,NA
+both,ASV83,ASV43,species,Enchelyopus cimbrius,Eukaryota,Chordata,Actinopteri,Gadiformes,Gaidropsaridae,Enchelyopus,Enchelyopus cimbrius,best hit,Fourbeard rockling,demersal,oceanodromous,minor commercial
+both,ASV87,ASV84,species,Pollachius virens,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Pollachius,Pollachius virens,best hit,Saithe,demersal,oceanodromous,highly commercial
+both,ASV88,ASV54,species,Hemitripterus americanus,Eukaryota,Chordata,Actinopteri,Perciformes,Agonidae,Hemitripterus,Hemitripterus americanus,best hit,Sea raven,demersal,NA,NA
+both,ASV91,ASV559,species,Alosa aestivalis,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa aestivalis,best hit,Blueback shad,pelagic-neritic,anadromous,commercial
+both,ASV92,ASV53,species,Morone americana,Eukaryota,Chordata,Actinopteri,unknown order,Moronidae,Morone,Morone americana,best hit,White perch,benthopelagic,anadromous,minor commercial
+both,ASV93,ASV118,species,Semotilus atromaculatus,Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Semotilus,Semotilus atromaculatus,best hit,NA,NA,NA,NA
+both,ASV98,ASV59,species,Peprilus triacanthus,Eukaryota,Chordata,Actinopteri,Scombriformes,Stromateidae,Peprilus,Peprilus triacanthus,best hit,Atlantic butterfish,benthopelagic,oceanodromous,commercial
+both,ASV104,ASV95,species,Notoscopelus elongatus,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Notoscopelus,Notoscopelus elongatus,best hit,NA,NA,NA,NA
+both,ASV117,ASV71,species,Brosme brosme,Eukaryota,Chordata,Actinopteri,Gadiformes,Lotidae,Brosme,Brosme brosme,best hit,Cusk,demersal,oceanodromous,highly commercial
+12S,ASV119,NA,species,Urophycis tenuis,Eukaryota,Chordata,Actinopteri,Gadiformes,Phycidae,Urophycis,Urophycis tenuis,best hit,White hake,demersal,oceanodromous,highly commercial
+both,ASV124,ASV61,species,Mallotus villosus,Eukaryota,Chordata,Actinopteri,Osmeriformes,Salangidae,Mallotus,Mallotus villosus,best hit,Capelin,pelagic-oceanic,anadromous,highly commercial
+12S,ASV125,NA,species,Brevoortia tyrannus,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Brevoortia,Brevoortia tyrannus,best hit,Atlantic menhaden,pelagic-neritic,oceanodromous,highly commercial
+12S,ASV126,NA,species,Artediellus uncinatus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Artediellus,Artediellus uncinatus,best hit,Arctic hookear sculpin,demersal,NA,NA
+12S,ASV131,NA,species,Lycodes vahlii,Eukaryota,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes vahlii,best hit,Vahl's eelpout,bathydemersal,NA,subsistence fisheries
+both,ASV134,ASV28,species,Phycis chesteri,Eukaryota,Chordata,Actinopteri,Gadiformes,Phycidae,Phycis,Phycis chesteri,best hit,Longfin hake,benthopelagic,non-migratory,of potential interest
+both,ASV153,ASV144,species,Chrosomus neogaeus,Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Chrosomus,Chrosomus neogaeus,best hit,NA,NA,NA,NA
+both,ASV154,ASV113,species,Hippoglossina oblonga,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Paralichthyidae,Hippoglossina,Hippoglossina oblonga,best hit,American fourspot flounder,demersal,NA,commercial
+both,ASV156,ASV160,species,Gymnocanthus tricuspis,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Gymnocanthus,Gymnocanthus tricuspis,best hit,Arctic staghorn sculpin,demersal,NA,NA
+12S,ASV162,NA,species,Xiphister atropurpureus,Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Xiphister,Xiphister atropurpureus,best hit,NA,NA,NA,NA
+both,ASV181,ASV126,species,Gasterosteus wheatlandi,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,Gasterosteus wheatlandi,best hit,Blackspotted stickleback,benthopelagic,NA,NA
+both,ASV208,ASV18,species,Zoarces americanus,Eukaryota,Chordata,Actinopteri,Perciformes,Zoarcidae,Zoarces,Zoarces americanus,best hit,Ocean pout,demersal,oceanodromous,commercial
+both,ASV212,ASV104,species,Merluccius albidus,Eukaryota,Chordata,Actinopteri,Gadiformes,Merlucciidae,Merluccius,Merluccius albidus,best hit,Offshore silver hake,bathydemersal,non-migratory,minor commercial
+12S,ASV228,NA,species,Auxis rochei,Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Auxis,Auxis rochei,best hit,Bullet tuna,pelagic-neritic,oceanodromous,highly commercial
+12S,ASV262,NA,species,Stichaeus punctatus,Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Stichaeus,Stichaeus punctatus,best hit,Arctic shanny,demersal,NA,NA
+12S,ASV319,NA,genus,Gadus,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,no identification,lca,NA,NA,NA,NA
+12S,ASV331,NA,genus,Pholis,Eukaryota,Chordata,Actinopteri,Perciformes,Pholidae,Pholis,no identification,lca,NA,NA,NA,NA
+12S,ASV361,NA,genus,Salvelinus,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salvelinus,no identification,lca,NA,NA,NA,NA
+12S,ASV376,NA,species,Clupea pallasii,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea,Clupea pallasii,best hit,NA,NA,NA,NA
+12S,ASV379,NA,family,Osmeridae,Eukaryota,Chordata,Actinopteri,Osmeriformes,Osmeridae,no identification,no identification,lca,NA,NA,NA,NA
+both,ASV435,ASV452,genus,Anarhichas,Eukaryota,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarhichas,no identification,lca,NA,NA,NA,NA
+both,ASV439,ASV211,species,Scophthalmus aquosus,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Scophthalmidae,Scophthalmus,Scophthalmus aquosus,best hit,Windowpane flounder,demersal,NA,commercial
+both,ASV449,ASV72,species,Squalus acanthias,Eukaryota,Chordata,Chondrichthyes,Squaliformes,Squalidae,Squalus,Squalus acanthias,best hit,Picked dogfish,bathydemersal,oceanodromous,commercial
+12S,ASV453,NA,genus,Myoxocephalus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,no identification,lca,NA,NA,NA,NA
+both,ASV474,ASV577,genus,Ammodytes,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,no identification,lca,NA,NA,NA,NA
+12S,ASV498,NA,genus,Sebastes,Eukaryota,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,no identification,lca,NA,NA,NA,NA
+12S,ASV524,NA,family,Gadidae,Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,no identification,no identification,lca,NA,NA,NA,NA
+12S,ASV554,NA,family,Pleuronectidae,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,no identification,no identification,lca,NA,NA,NA,NA
+12S,ASV635,NA,genus,Fundulus,Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,no identification,lca,NA,NA,NA,NA
+both,ASV675,ASV493,genus,Gasterosteus,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,no identification,lca,NA,NA,NA,NA
+12S,ASV676,NA,species,Chauliodus sloani,Eukaryota,Chordata,Actinopteri,Stomiiformes,Stomiidae,Chauliodus,Chauliodus sloani,best hit,Sloane's viperfish,bathypelagic,NA,NA
+12S,ASV719,NA,family,Labridae,Eukaryota,Chordata,Actinopteri,Labriformes,Labridae,no identification,no identification,lca,NA,NA,NA,NA
+12S,ASV843,NA,genus,Alosa,Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,no identification,lca,NA,NA,NA,NA
+12S,ASV987,NA,genus,Artediellus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Artediellus,no identification,lca,NA,NA,NA,NA
+both,ASV1090,ASV120,genus,Liparis,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,no identification,lca,NA,NA,NA,NA
+16S,NA,ASV8,species,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Megalocottus,Megalocottus platycephalus,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV9,species,Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salvelinus,Salvelinus fontinalis,best hit,Salmonidae,benthopelagic,anadromous,minor commercial,TRUE
+16S,NA,ASV14,species,Eukaryota,Chordata,Actinopteri,Perciformes,Anarhichadidae,Anarhichas,Anarhichas lupus,best hit,Anarhichadidae,demersal,oceanodromous,highly commercial,TRUE
+16S,NA,ASV29,species,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes personatus,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV32,species,Eukaryota,Chordata,Chondrichthyes,Lamniformes,Alopiidae,Cetorhinus,Cetorhinus maximus,best hit,Cetorhinidae,pelagic-oceanic,oceanodromous,commercial,TRUE
+16S,NA,ASV37,species,Eukaryota,Chordata,Actinopteri,Aulopiformes,Paralepididae,unknown genus,Paralepididae sp.,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV38,species,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Benthosema,Benthosema glaciale,best hit,Myctophidae,pelagic-oceanic,non-migratory,of potential interest,TRUE
+16S,NA,ASV42,order,Eukaryota,Chordata,Actinopteri,Perciformes,no identification,no identification,no identification,lca,NA,NA,NA,NA,TRUE
+16S,NA,ASV44,species,Eukaryota,Chordata,Chondrichthyes,Rajiformes,Rajidae,Leucoraja,Leucoraja erinaceus,best hit,Rajidae,demersal,oceanodromous,NA,TRUE
+16S,NA,ASV45,species,Eukaryota,Chordata,Chondrichthyes,Rajiformes,Rajidae,Amblyraja,Amblyraja radiata,best hit,Rajidae,demersal,oceanodromous,minor commercial,TRUE
+16S,NA,ASV55,species,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Pleuronectes,Pleuronectes platessa,best hit,Pleuronectidae,demersal,oceanodromous,highly commercial,TRUE
+16S,NA,ASV56,species,Eukaryota,Chordata,Actinopteri,Perciformes,Cryptacanthodidae,Cryptacanthodes,Cryptacanthodes maculatus,best hit,Cryptacanthodidae,demersal,NA,NA,TRUE
+16S,NA,ASV57,species,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis bathyarcticus,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV62,species,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes cf. americanus,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV63,species,Eukaryota,Chordata,Chondrichthyes,Rajiformes,Rajidae,Malacoraja,Malacoraja kreffti,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV66,species,Eukaryota,Chordata,Actinopteri,Perciformes,Cyclopteridae,Eumicrotremus,Eumicrotremus spinosus,best hit,Cyclopteridae,demersal,NA,NA,TRUE
+16S,NA,ASV69,species,Eukaryota,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes tanakae,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV78,species,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,Lampanyctus macdonaldi,best hit,Myctophidae,bathypelagic,oceanodromous,NA,TRUE
+16S,NA,ASV83,species,Eukaryota,Chordata,Actinopteri,Perciformes,Percidae,Perca,Perca flavescens,best hit,Percidae,benthopelagic,NA,commercial,TRUE
+16S,NA,ASV87,species,Eukaryota,Chordata,Actinopteri,unknown order,Moronidae,Morone,Morone saxatilis,best hit,Moronidae,demersal,anadromous,minor commercial,TRUE
+16S,NA,ASV92,species,Eukaryota,Chordata,Actinopteri,Anguilliformes,Congridae,Conger,Conger oceanicus,best hit,Congridae,demersal,oceanodromous,minor commercial,TRUE
+16S,NA,ASV94,species,Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Pungitius,Pungitius laevis,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV100,species,Eukaryota,Chordata,Chondrichthyes,Rajiformes,Rajidae,Dipturus,Dipturus batis,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV101,species,Eukaryota,Chordata,Actinopteri,Perciformes,Scorpaenidae,Pontinus,Pontinus rathbuni,best hit,Scorpaenidae,demersal,NA,NA,TRUE
+16S,NA,ASV102,family,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,no identification,no identification,lca,NA,NA,NA,NA,TRUE
+16S,NA,ASV106,species,Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes americanus,best hit,Ammodytidae,demersal,NA,of potential interest,TRUE
+16S,NA,ASV119,species,Eukaryota,Chordata,Actinopteri,Zeiformes,Zeidae,Zenopsis,Zenopsis conchifer,best hit,Zeidae,benthopelagic,NA,commercial,TRUE
+16S,NA,ASV127,species,Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctus,Lampanyctus australis,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV147,species,Eukaryota,Chordata,unknown class,Testudines,Dermochelyidae,Dermochelys,Dermochelys coriacea,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV152,species,Eukaryota,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes nakamurae,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV156,species,Eukaryota,Chordata,Actinopteri,Centrarchiformes,Centrarchidae,Micropterus,Micropterus dolomieu,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV163,species,Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Myzopsetta,Myzopsetta punctatissima,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV173,species,Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis fabricii,best hit,Liparidae,bathydemersal,NA,NA,TRUE
+16S,NA,ASV190,class,Eukaryota,Chordata,Actinopteri,no identification,no identification,no identification,no identification,lca,NA,NA,NA,NA,TRUE
+16S,NA,ASV193,species,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Artediellus,Artediellus ochotensis,best hit,NA,NA,NA,NA,TRUE
+16S,NA,ASV199,species,Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Auxis,Auxis thazard,best hit,Scombridae,pelagic-neritic,oceanodromous,highly commercial,TRUE
+16S,NA,ASV365,genus,Eukaryota,Chordata,Actinopteri,Gadiformes,Merlucciidae,Merluccius,no identification,lca,NA,NA,NA,NA,TRUE
+16S,NA,ASV512,species,Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus grandis,lca,NA,NA,NA,NA,TRUE
+16S,NA,ASV562,genus,Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Triglops,no identification,lca,NA,NA,NA,NA,TRUE
