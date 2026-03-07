@@ -22,58 +22,53 @@ head(sort(rowSums(ASV_table)), n = 25L) # change n to find tail end
 
 ####################################################
 # Taxonomy file
-taxonomy <- read_tsv("data/raw/16S_taxonomy_BLAST96_besthit_LCA.txt") %>%  
-  column_to_rownames("#Query") %>%
-  filter(`#class` %in% c("Actinopteri", "Chondrichthyes", "unknown class"))
+taxonomy <- read_tsv("data/raw/16S_taxonomy_BLAST96_besthit_LCA.txt") 
+
+# Taxonomy file is missing entries for unassigned taxa, so manually refill them,
+all_asvs <- colnames(ASV_table)
+
+taxonomy_full <- tibble(`#Query` = all_asvs) %>%
+  left_join(taxonomy, by = "#Query") %>%
+  mutate(`#lca taxon` = replace_na(`#lca taxon`, "No data")) %>%  
+  column_to_rownames("#Query") 
 ####################################################
-# Already quite cleaned, from X ASVs originally.
-# Microbial/protist classes removed. "unkown class" contains only 1 ASV with taxonomy: Leatherback sea turtle.
-# Many skates in this dataset + basking shark + spiny dogfish
 
 ############################################
-# Build phyloseq object
-
-# Merging tables right away gives an error of taxa mismatch (between ASV table and taxonomy), let's investigate:
-# Ask who is in both
-taxa_keep <- intersect(colnames(ASV_table), rownames(taxonomy))
-####################
-# Impact tracking function:
-report_taxa_differences <- function(x_names, y_names, x_label = "X", y_label = "Y") {
-  only_in_x <- setdiff(x_names, y_names)
-  only_in_y <- setdiff(y_names, x_names)
-  
-  cat(sprintf("Taxa in %s not in %s: %d\n", x_label, y_label, length(only_in_x)))
-  if (length(only_in_x)) cat("  IDs:", paste(only_in_x, collapse = ", "), "\n")
-  
-  cat(sprintf("Taxa in %s not in %s: %d\n", y_label, x_label, length(only_in_y)))
-  if (length(only_in_y)) cat("  IDs:", paste(only_in_y, collapse = ", "), "\n")
-  
-  invisible(list(only_in_x = only_in_x, only_in_y = only_in_y))
-}
-
-# Use it on the same intersection:
-res <- report_taxa_differences(colnames(ASV_table), rownames(taxonomy),
-                               x_label = "counts", y_label = "taxonomy")
-###############
-# ASVs in ASV table with no or discarded taxonomy: 239 ASVs
-
-# --- Harmonize taxa (names must match) ---
-ASV_table <- ASV_table[, taxa_keep, drop = FALSE]
-#taxonomy   <- taxonomy[taxa_keep, , drop = FALSE]
-# Then you can merge datasets :)
-
 # Build phyloseq object
 (UINR_16S <- phyloseq(
   otu_table(as.matrix(ASV_table), taxa_are_rows = FALSE),
-  tax_table(as.matrix(taxonomy)),
+  tax_table(as.matrix(taxonomy_full)),
   sample_data(metadata)))
 ############################################
-
 # Originally, this dataset contained 632 ASVs, 401 of which had taxonomy information. 
-# After taxonomy cleanup, 393 ASVs remained (of classes "Actinopteri, Chondrichthyes, unknown(seaturtle)")
-# I will manually assess those against OBIS records.
+# Here this visualizes the proportion of samples with taxonomy data vs no data.
+taxdf <- as.data.frame(tax_table(UINR_16S))
+taxdf$tax_status <- ifelse(taxdf$`#lca taxon` == "No data", "No data", "Has data")
+tax_table(UINR_16S) <- tax_table(as.matrix(taxdf))
+# plot
+psmelt(UINR_16S) %>%
+  ggplot(aes(x = Sample, y = Abundance, fill = tax_status)) +
+  geom_bar(stat = "identity", position = "fill") +
+  scale_fill_manual(values = c("No data" = "grey70", "Has data" = "#2C7FB8")) +
+  labs(x = "Sample", y = "Proportion of reads", fill = NULL) +
+  theme_bw()
+# Thankfully here, all samples are mostly made up of ASVs with taxonomy data.
+####################################################
 
-UINR_filtered_taxonomy <- tax_table(UINR_16S) %>%
+####################################################
+# Taxonomic cleanup of the dataset
+fish_taxa <- taxa_names(UINR_16S)[
+  tax_table(UINR_16S)[,"#class"] %in% c("Actinopteri", "Chondrichthyes", "unknown class")
+]
+(UINR_16S_cleaned <- prune_taxa(fish_taxa, UINR_16S))
+# After taxonomy cleanup, 393 ASVs remained (of classes "Actinopteri, Chondrichthyes, unknown(seaturtle)")
+# Many skates in this dataset + basking shark + spiny dogfish
+####################################################
+
+
+####################################################
+# Integrating OBIS data
+UINR_filtered_taxonomy <- tax_table(UINR_16S_cleaned) %>%
   as("matrix") %>%
   as.data.frame() %>%
   rownames_to_column("ASV") %>%
@@ -90,8 +85,10 @@ UINR_16S_with_OBIS <- UINR_filtered_taxonomy %>%
   )
 
 write.csv(UINR_16S_with_OBIS, "data/processed/UINR_16S_w_OBIS.csv")
+####################################################
 
-
+####################################################
+# Combining all fish data from 12S and 16S assays
 UINR_16S_with_OBIS_unique <- UINR_16S_with_OBIS %>%
   distinct(`#lca taxon`, .keep_all = TRUE)
 UINR_12S_with_OBIS_unique <- UINR_12S_with_OBIS %>%
@@ -126,5 +123,5 @@ ggVennDiagram(sets, label_alpha = 0) +
   scale_fill_gradient(low = "white", high = "#2C7FB8") +
   theme_void()
 
-
 write.csv(UINR_all_fish_unique_with_OBIS, "data/processed/UINR_all_fish_unique_with_OBIS.csv")
+####################################################
